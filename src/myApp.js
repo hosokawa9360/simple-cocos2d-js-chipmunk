@@ -1,6 +1,5 @@
 var MyLayer = cc.LayerColor.extend({
     helloLabel:null,
-    sprite:null,
 
     init:function () {
         this._super();
@@ -13,10 +12,29 @@ var MyLayer = cc.LayerColor.extend({
         this.helloLabel.setPosition(size.width / 2, size.height - 40);
         this.addChild(this.helloLabel, 5);
 
-        this.sprite = cc.Sprite.create(s_Octcat);
-        this.sprite.setPosition(size.width / 2, size.height / 2);
-        this.sprite.setScale(0.5);
-        this.addChild(this.sprite);
+        this.addSprite(cc.p(size.width/2, size.height/2));
+    },
+
+    onEnter:function() {
+        cc.eventManager.addListener({
+            event: cc.EventListener.TOUCH_ONE_BY_ONE,
+            onTouchBegan: function(touch, event) {
+                this.addSprite(touch.getLocation());
+            }.bind(this)
+        }, this);
+        cc.eventManager.addListener({
+            event: cc.EventListener.MOUSE,
+            onMouseUp: function(event) {
+                this.addSprite(cc.p(event.getLocationX(),event.getLocationY()));
+            }.bind(this)
+        },this);
+    },
+
+    addSprite: function(position) {
+        var sprite = cc.Sprite.create(s_Octcat);
+        sprite.setPosition(position.x, position.y);
+        sprite.setScale(0.5);
+        this.addChild(sprite);
     }
 });
 
