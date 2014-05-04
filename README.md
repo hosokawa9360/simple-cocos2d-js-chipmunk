@@ -1,4 +1,4 @@
 simple-cocos2d-js
 =================
 
-simple template cocos2d-js 3.0
+simple template cocos2d-js 3.0 using chipmunk.js
