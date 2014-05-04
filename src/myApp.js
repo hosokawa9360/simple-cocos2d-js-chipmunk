@@ -41,6 +41,7 @@ var MyLayer = cc.LayerColor.extend({
         var shape = new cp.BoxShape(body, 64, 64);
         shape.setElasticity(0.7);
         shape.setFriction(0.7);
+        shape.setCollisionType(1);
         this.space_.addShape(shape);
 
         this.sprite_ && this.sprite_.removeFromParent() && this.sprite_.getBody().removeFromParent();
@@ -81,9 +82,18 @@ var MyScene = cc.Scene.extend({
             shape.setElasticity(1.1);
             shape.setFriction(1.5);
             space.addStaticShape(shape);
+            shape.setCollisionType(0);
         }
 
         space.gravity = cp.v(0, -100);
+
+        space.addCollisionHandler(0,1, function(arb) {
+            var shapes = arb.getShapes();
+            var collTypeA = shapes[0].collision_type;
+            var collTypeB = shapes[1].collision_type;
+            // cc.log("hit "+collTypeA + collTypeB);
+            return true;
+        } );
 
         return space;
     },
