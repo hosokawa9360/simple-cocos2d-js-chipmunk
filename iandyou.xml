@@ -1,0 +1,2977 @@
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2enclosurestitles.xsl"?>
+<?xml-stylesheet type="text/css" media="screen" href="http://feeds.feedburner.com/~d/styles/itemtitles.css"?>
+<rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
+<channel>
+    <title>@IDA_10 x @miyaokaのピコピコキャスト</title>
+    <link>http://d.hatena.ne.jp/iandme/</link>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/ida10_miyaoka"/>
+    <description>@IDA_10 x @miyaokaのピコピコキャスト</description>
+    <language>en</language>
+    <managingEditor>noemail@noemail.org (iandme)</managingEditor>
+    <lastBuildDate>Sun, 18 May 2014 04:07:22 PDT</lastBuildDate>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rdf+xml" href="http://feeds.feedburner.com/ida10_miyaoka"/>
+    <feedburner:info uri="ida10_miyaoka"/>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/"/>
+    <media:copyright>(C) http://d.hatena.ne.jp/iandme/</media:copyright>
+    <media:thumbnail url="http://www.t-p.jp/podcast/ida10_300x300.jpg"/>
+    <media:keywords>ida10,miyaoka,ピコピコキャスト,picopicocast,pico2cast,pico</media:keywords>
+    <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Games &amp; Hobbies/Video Games</media:category>
+    <itunes:owner>
+        <itunes:email>noemail@noemail.org</itunes:email>
+        <itunes:name>iandme</itunes:name>
+    </itunes:owner>
+    <itunes:author>iandme</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="http://www.t-p.jp/podcast/ida10_300x300.jpg"/>
+    <itunes:keywords>ida10,miyaoka,ピコピコキャスト,picopicocast,pico2cast,pico</itunes:keywords>
+    <itunes:subtitle>picopicocast</itunes:subtitle>
+    <itunes:summary>@ida_10と@miyaokaのゲームトーク。詳細ログは http://d.hatena.ne.jp/iandme/</itunes:summary>
+    <itunes:category text="Games &amp; Hobbies">
+        <itunes:category text="Video Games"/>
+    </itunes:category>
+    <image>
+        <url>http://www.t-p.jp/podcast/ida10_80x80.jpg</url>
+    </image>
+    <feedburner:feedFlare href="http://fusion.google.com/add?feedurl=http%3A%2F%2Ffeeds.feedburner.com%2Fida10_miyaoka" src="http://buttons.googlesyndication.com/fusion/add.gif">Subscribe with Google</feedburner:feedFlare>
+    <feedburner:browserFriendly>aaaa</feedburner:browserFriendly>
+    <item>
+        <title>第42回 第二部：最近のゲームモデルと、最近やりたいゲーム</title>
+        <link>http://feedproxy.google.com/~r/ida10_miyaoka/~3/nan1015XBxM/1400411193</link>
+        <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">iandme</dc:creator>
+        <pubDate>Sun, 18 May 2014 04:06:33 PDT</pubDate>
+        <guid isPermaLink="false">http://d.hatena.ne.jp/iandme/20140518/1400411193</guid>
+        <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">
+        <![CDATA[
+        <div class="section">
+            <p>
+                <span style="vertical-align:middle;">
+                    <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" width="220" height="25" id="mp3_3" align="middle" style="vertical-align:bottom">
+                    <param name="flashVars" value="mp3Url=http://www.t-p.jp/podcast/20140518-02.mp3">
+                    <param name="allowScriptAccess" value="sameDomain">
+                        <param name="movie" value="http://g.hatena.ne.jp/tools/mp3_3.swf">
+                        <param name="quality" value="high">
+                            <param name="bgcolor" value="#ffffff">
+                                <param name="wmode" value="transparent">
+                                    <embed src="http://g.hatena.ne.jp/tools/mp3_3.swf" flashvars="mp3Url=http://www.t-p.jp/podcast/20140518-02.mp3" quality="high" wmode="transparent" bgcolor="#ffffff" width="220" height="25" name="mp3_3" align="middle" allowScriptAccess="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" style="vertical-align:bottom">
+                                </object>
+                                <a href="http://www.t-p.jp/podcast/20140518-02.mp3">
+                                <img src="http://g.hatena.ne.jp/images/podcasting.gif" title="Download" alt="Download" border="0" style="border:0px;vertical-align:bottom;">
+                            </a>
+                        </span>
+                        <br>
+                        </p>
+                        <ul>
+                            <li>登場人物
+                            <ul>
+                                <li>
+                                    <a href="https://twitter.com/IDA_10">
+                                    <img src="http://pbs.twimg.com/profile_images/56777836/IDA-10_mini.jpg">
+                                </a> イダテン</li>
+                                <li>
+                                    <a href="https://twitter.com/miyaoka">
+                                    <img src="http://pbs.twimg.com/profile_images/2774146083/128e5791dbcad9bee2f66aa32633674d_mini.png">
+                                </a> みやおか</li>
+                                <br>
+                                </ul>
+                            </li>
+                        </ul>
+                        <h4> [00:00] 携帯ゲームのモデル</h4>
+                        <br>
+                            <ul>
+                                <li>パラダイムシフト
+                                <ul>
+                                    <li>売れてるゲームをパクっても複雑化しててパクりきれなくなってきた</li>
+                                    <br>
+                                    </ul>
+                                </li>
+                            </ul>
+                            <h4> [06:10] 面白いと言われているゲームを買ってもプレイに至らない問題</h4>
+                            <br>
+                                <ul>
+                                    <li>最近買ってプレイに至ったのはPrisonArchitect
+                                    <ul>
+                                        <li>刑務所を作るサンドボックス的なゲーム</li>
+                                        <li>フレンドが配信していているのを見て、とにかく自分で操作してみたい、という欲が湧いてきた</li>
+                                        <li>そういう行為が今どきっぽいなって思った</li>
+                                        <br>
+                                        </ul>
+                                    </li>
+                                    <li>新しいゲームをとりあえず買うが、プレイに至るのは難しい
+                                    <ul>
+                                        <li>ゲームを遊びたくなったら、確実に楽しみたいので既存の面白かったゲームを設定変えたりしてまた遊んでしまう</li>
+                                        <br>
+                                        </ul>
+                                    </li>
+                                    <li>Monument Valley
+                                    <ul>
+                                        <li>エッシャー風のだまし絵パズル</li>
+                                        <li>スタイリッシュなグラフィックだし、システムもまあ面白そう</li>
+                                        <li>でも、パズルか、というだけでプレイに至らなかった</li>
+                                        <li>10年前とかだと絶賛してそうなゲーム。そういうの今だとやらなくなってる</li>
+                                        <br>
+                                        </ul>
+                                    </li>
+                                    <li>kero blaster
+                                    <ul>
+                                        <li>洞窟物語の開発室Pixelの新作</li>
+                                        <li>むかし洞窟物語はとても楽しんだけど、今ではメトロイドヴァニア、2Dプラットフォーマーというジャンル自体がなんかみやおか的には苦しい</li>
+                                        <li>（※あくまで未プレイの意見です。プレイしたら絶賛するかもしれませんが！！）</li>
+                                        <br>
+                                        </ul>
+                                    </li>
+                                    <li>口先番長</li>
+                                    <br>
+                                    </ul>
+                                    <h4> [23:33] ゲームで何が得られるの、というのが見えてこない</h4>
+                                    <br>
+                                        <ul>
+                                            <li>歴史物
+                                            <ul>
+                                                <li>当時の人生観とか体験できる</li>
+                                            </ul>
+                                        </li>
+                                        <li>古代とか開拓民とかプリミティブな人間社会まで行くと物事の成り立ちを理解できる
+                                        <ul>
+                                            <li>banished</li>
+                                            <br>
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                    <h4> [30:30] 基本無料のゲームにお金を払うとき</h4>
+                                    <br>
+                                        <ul>
+                                            <li>欲望に密接に結びついた感情を起こすことが重要
+                                            <ul>
+                                                <li>そうした感情のためには対戦などが合理的</li>
+                                                <li>逆にそうした欲望モデルでないコンテンツは基本無料の課金モデルに合わず、有料コンテンツ</li>
+                                                <li>もはやそうしたソシャゲーシステム自体をゲームにして観察したい</li>
+                                                <br>
+                                                </ul>
+                                            </li>
+                                        </ul>
+                                        <h4> [34:53] 課題解決をさせるゲームと、課題を見守るゲーム</h4>
+                                        <br>
+                                            <ul>
+                                                <li>タスク処理
+                                                <ul>
+                                                    <li>10連ガチャを引いて、新たに育てる課題を得ていく</li>
+                                                    <li>記号化されているテトリス。延々とラインを消していたあの行為</li>
+                                                    <br>
+                                                    </ul>
+                                                </li>
+                                                <li>自分がもうやるのが苦しいと感じるのは「課題解決することを求められている」ゲーム
+                                                <ul>
+                                                    <li>自分がやりたいのは課題を見つけて観察するだけ</li>
+                                                    <li>現実には課題なんていっぱいあって解決できないものも多い</li>
+                                                    <li>解決しなかったらどうなるんだろうな、というのが最近知りたい感じ</li>
+                                                    <br>
+                                                    </ul>
+                                                </li>
+                                                <li>Prison Architect
+                                                <ul>
+                                                    <li>刑務所での囚人管理という課題解決</li>
+                                                    <li>開発中ということもあり、パトロールなどを万全にしたら全く問題が起きなくなって超優良刑務所になってしまった</li>
+                                                    <li>やはり自分の管理の隙を突かれて、荒れ狂う囚人たちの暴動を見るのが楽しいゲームだなと感じた</li>
+                                                    <br>
+                                                    </ul>
+                                                </li>
+                                                <li>失敗を見たい
+                                                <ul>
+                                                    <li>数値を高めるとか成長させるだけだと物足りなくなっている</li>
+                                                    <li>パズルやプラットフォーマーというジャンルでもう自分の求めている物ではないと感じてしまうのは、それらが根本的に課題解決だから</li>
+                                                    <li>Mount & Bladeをやらないからこういう気持ちが分からないんだよ！
+                                                    <ul>
+                                                        <li>いや逆にゲームに求めるものがこういう気持ちになってないとMount & Bladeを楽しめないのかもしれない</li>
+                                                        <br>
+                                                        </ul>
+                                                    </li>
+                                                </ul>
+                                            </li>
+                                        </ul>
+                                        <h4> [50:03] 物の値段がよく分からない</h4>
+                                        <br>
+                                            <ul>
+                                                <li>欲望系以外の感情
+                                                <ul>
+                                                    <li>金にならない感情</li>
+                                                    <li>懐古／ほのぼの／ほっこりする</li>
+                                                    <li>そういうのを表現する場合には、基本有料で制作者の趣旨に賛同してお金を払うスタイル</li>
+                                                    <br>
+                                                    </ul>
+                                                </li>
+                                                <li>金を払う側としてよく分からない
+                                                <ul>
+                                                    <li>Mount & Bladeを数ドルで買ったために、対価がズレてんなーと感じてしまう問題</li>
+                                                    <li>みんながいっぱい払えばMount & Blade 2だって出てるはずなのに…！！</li>
+                                                    <li>いろんなものが物質からソフトになり、集金もネットによって世界中からというモデルになっていく過渡期ゆえの消費の混乱？</li>
+                                                    <li>特にゲームコンテンツ</li>
+                                                    <br>
+                                                    </ul>
+                                                </li>
+                                                <li>ゲームにお金をどう払うか
+                                                <ul>
+                                                    <li>SFCの頃はカセット1本で1万円くらいしてた</li>
+                                                    <li>今考えると、なんなの！？って思ってしまう</li>
+                                                    <li>金の価値が分かるゲームもやりたい</li>
+                                                </ul>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                    <img src="http://feeds.feedburner.com/~r/ida10_miyaoka/~4/nan1015XBxM" height="1" width="1"/>]]>
+                                </content:encoded>
+                                <description>登場人物 イダテン みやおか [00:00] 携帯ゲームのモデル パラダイムシフト 売れてるゲームをパクっても複雑化しててパクりきれなくなってきた [06:10] 面白いと言われているゲームを買ってもプレイに至らない問題 最近買ってプレイに至ったのはPrisonArchitect 刑務所を作</description>
+                                <media:content url="http://feedproxy.google.com/~r/ida10_miyaoka/~5/Km4NhR48xvs/20140518-02.mp3" fileSize="31771085" type="audio/mpeg"/>
+                                <itunes:explicit>no</itunes:explicit>
+                                <itunes:subtitle>登場人物 イダテン みやおか [00:00] 携帯ゲームのモデル パラダイムシフト 売れてるゲームをパクっても複雑化しててパクりきれなくなってきた [06:10] 面白いと言われているゲームを買ってもプレイに至らない問題 最近買ってプレイに至ったのはPrisonArchitect 刑務所を作</itunes:subtitle>
+                                <itunes:author>iandme</itunes:author>
+                                <itunes:summary>登場人物 イダテン みやおか [00:00] 携帯ゲームのモデル パラダイムシフト 売れてるゲームをパクっても複雑化しててパクりきれなくなってきた [06:10] 面白いと言われているゲームを買ってもプレイに至らない問題 最近買ってプレイに至ったのはPrisonArchitect 刑務所を作</itunes:summary>
+                                <itunes:keywords>ida10,miyaoka,ピコピコキャスト,picopicocast,pico2cast,pico</itunes:keywords>
+                                <feedburner:origLink>http://d.hatena.ne.jp/iandme/20140518/1400411193</feedburner:origLink>
+                                <enclosure url="http://feedproxy.google.com/~r/ida10_miyaoka/~5/Km4NhR48xvs/20140518-02.mp3" length="31771085" type="audio/mpeg"/>
+                                <feedburner:origEnclosureLink>http://www.t-p.jp/podcast/20140518-02.mp3</feedburner:origEnclosureLink>
+                            </item>
+                            <item>
+                                <title>第41回 dokidokiアメリカ★ナイツ第一部：世界のクリエイティブが大集合（民家に）</title>
+                                <link>http://feedproxy.google.com/~r/ida10_miyaoka/~3/mCiWaZ1mts8/1400407056</link>
+                                <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">iandme</dc:creator>
+                                <pubDate>Sun, 18 May 2014 02:57:36 PDT</pubDate>
+                                <guid isPermaLink="false">http://d.hatena.ne.jp/iandme/20140518/1400407056</guid>
+                                <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">
+                                <![CDATA[
+                                <div class="section">
+                                    <p>
+                                        <span style="vertical-align:middle;">
+                                            <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" width="220" height="25" id="mp3_3" align="middle" style="vertical-align:bottom">
+                                            <param name="flashVars" value="mp3Url=http://www.t-p.jp/podcast/20140518-01.mp3">
+                                            <param name="allowScriptAccess" value="sameDomain">
+                                                <param name="movie" value="http://g.hatena.ne.jp/tools/mp3_3.swf">
+                                                <param name="quality" value="high">
+                                                    <param name="bgcolor" value="#ffffff">
+                                                        <param name="wmode" value="transparent">
+                                                            <embed src="http://g.hatena.ne.jp/tools/mp3_3.swf" flashvars="mp3Url=http://www.t-p.jp/podcast/20140518-01.mp3" quality="high" wmode="transparent" bgcolor="#ffffff" width="220" height="25" name="mp3_3" align="middle" allowScriptAccess="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" style="vertical-align:bottom">
+                                                        </object>
+                                                        <a href="http://www.t-p.jp/podcast/20140518-01.mp3">
+                                                        <img src="http://g.hatena.ne.jp/images/podcasting.gif" title="Download" alt="Download" border="0" style="border:0px;vertical-align:bottom;">
+                                                    </a>
+                                                </span>
+                                                <br>
+                                                </p>
+                                                <ul>
+                                                    <li>登場人物
+                                                    <ul>
+                                                        <li>レギュラー
+                                                        <ul>
+                                                            <li>
+                                                                <a href="https://twitter.com/IDA_10">
+                                                                <img src="http://pbs.twimg.com/profile_images/56777836/IDA-10_mini.jpg">
+                                                            </a> イダテン</li>
+                                                            <li>
+                                                                <a href="https://twitter.com/miyaoka">
+                                                                <img src="http://pbs.twimg.com/profile_images/2774146083/128e5791dbcad9bee2f66aa32633674d_mini.png">
+                                                            </a> みやおか</li>
+                                                            <li>
+                                                                <a href="https://twitter.com/asa10megumi">
+                                                                <img src="https://pbs.twimg.com/profile_images/2667167870/4efe3b63e30159e32683c9e1b4bdfedf_mini.jpeg">
+                                                            </a> めぐみさん（イダテン奥さん）</li>
+                                                            <li>
+                                                                <a href="https://audioboo.fm/boos/1550670-">
+                                                                <img width="24" src="http://f.st-hatena.com/images/fotolife/i/iandme/20130721/20130721232224.jpg" height="24">
+                                                            </a> ねこ</li>
+                                                            <br>
+                                                            </ul>
+                                                        </li>
+                                                        <li>スペシャルゲスト
+                                                        <ul>
+                                                            <li>
+                                                                <a href="https://twitter.com/masakawa">
+                                                                <img src="https://pbs.twimg.com/profile_images/1341901616/twitter_icon__mini.jpg">
+                                                            </a> 川村真司クリエイティブディレクター（イダテンみやおかと同窓生）</li>
+                                                            <li>
+                                                                <a href="https://twitter.com/gishicho">
+                                                                <img src="https://pbs.twimg.com/profile_images/378800000366300070/afce750f693bb22e8aba38e6a616524e_mini.jpeg">
+                                                            </a> 技師長さん（スーパージーニアスエンジニア。イダテン家近所）</li>
+                                                            <br>
+                                                            </ul>
+                                                        </li>
+                                                    </ul>
+                                                </li>
+                                            </ul>
+                                            <h4> [5:35] 基本に立ち返って最近遊んでるゲームの話</h4>
+                                            <br>
+                                                <ul>
+                                                    <li>技師長さん
+                                                    <ul>
+                                                        <li>カードゲーム：フューチャーカード バディファイト</li>
+                                                        <li>花札</li>
+                                                    </ul>
+                                                </li>
+                                                <li>めぐみさん
+                                                <ul>
+                                                    <li>アメリカ人はトランプ意外に知らない話</li>
+                                                    <br>
+                                                    </ul>
+                                                </li>
+                                            </ul>
+                                            <h4> [15:10] 最近の子供向けに作られた商業的なカードゲームはすぐバランスが破綻してしまう</h4>
+                                            <br>
+                                                <ul>
+                                                    <li>インフレ対策
+                                                    <ul>
+                                                        <li>ジョジョは毎回ルール作ってる</li>
+                                                        <li>全部デス・サーティーンの夢だったという話にすればいつでも第三部まで巻き戻せる（川村が学生時代から言ってる案）</li>
+                                                        <br>
+                                                        </ul>
+                                                    </li>
+                                                    <li>ローカルルール
+                                                    <ul>
+                                                        <li>大貧民でデッキを増やす
+                                                        <ul>
+                                                            <li>バンバン革命が出せる。アツい</li>
+                                                            <li>混乱した国の様相</li>
+                                                            <br>
+                                                            </ul>
+                                                        </li>
+                                                    </ul>
+                                                </li>
+                                                <li>別の物同士を繋ぐ
+                                                <ul>
+                                                    <li>レゴやダイヤブロックを繋ぐピースを3Dプリンタで作成</li>
+                                                    <li>ぷよぷよテトリス</li>
+                                                    <li>MARVEL VS. CAPCOM</li>
+                                                    <li>花札vsトランプみたいな</li>
+                                                    <li>寿司麻雀</li>
+                                                    <br>
+                                                    </ul>
+                                                </li>
+                                            </ul>
+                                            <h4> [22:53] 最近やってるゲームの話2</h4>
+                                            <br>
+                                                <ul>
+                                                    <li>川村
+                                                    <ul>
+                                                        <li>Glorious Leader！
+                                                        <ul>
+                                                            <li>
+                                                                <a href="http://gigazine.net/news/20140514-glorious-leader/" target="_blank">北朝鮮の金正恩氏が迫り来る敵を次々と倒しまくる超絶無双アクションゲーム</a>
+                                                            </li>
+                                                        </ul>
+                                                    </li>
+                                                    <li>Threes</li>
+                                                    <li>巨大コインドーザー
+                                                    <ul>
+                                                        <li>ロボットアームは要ライセンス</li>
+                                                        <li>セクシーな動きを要求するCD</li>
+                                                        <br>
+                                                        </ul>
+                                                    </li>
+                                                </ul>
+                                            </li>
+                                            <li>技師長さん
+                                            <ul>
+                                                <li>Skylanders
+                                                <ul>
+                                                    <li>フィギュアを使ったゲーム</li>
+                                                    <br>
+                                                    </ul>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <li>イダテン
+                                        <ul>
+                                            <li>パズドラを再び
+                                            <ul>
+                                                <li>電車の中でみんなケータイいじってる</li>
+                                                <li>アメリカで今やっと一般層にリーチしてきた</li>
+                                                <li>電車の中でやってると声かけられる
+                                                <ul>
+                                                    <li>日本だと声かけ事案だよ！</li>
+                                                    <li>アメリカなら全然知らない人でも話してくるのが普通</li>
+                                                </ul>
+                                            </li>
+                                            <li>バスケのドリブルの練習をしていた人が3人、ブレイブフロンティアを薦めてきた人が3人。バスケと同じくらいすごいゲーム</li>
+                                            <br>
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li>みやおか
+                                <ul>
+                                    <li>Prison Architect</li>
+                                    <li>Mount & Blade</li>
+                                    <br>
+                                    </ul>
+                                </li>
+                            </ul>
+                            <h4> [43:08] インフレとイノベーション</h4>
+                            <br>
+                                <ul>
+                                    <li>トランプの話ついでに、FarCry3でのポーカーの話
+                                    <ul>
+                                        <li>ポーカーは良い役がそのまま点数化されるゲームではなく、相手をのせて賭けに打ち勝つゲーム</li>
+                                        <br>
+                                        </ul>
+                                    </li>
+                                    <li>インフレさせる
+                                    <ul>
+                                        <li>麻雀のリーチやドラは戦後に普及したもの。むかし昭和の麻雀解説本を読んだらこんなにアツく画期的になったと紹介されていた</li>
+                                        <li>Draw4をDraw400にしたら</li>
+                                        <li>デッキを増やした大貧民は革命が起きやすくなるというのがいい
+                                        <ul>
+                                            <li>ヨハネスブルグとか名づけたい</li>
+                                            <li>インフレゲーム、ジンバブエ</li>
+                                            <br>
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li>チェスボクシング
+                                <ul>
+                                    <li>ハチワンダイバーでやってた</li>
+                                    <br>
+                                    </ul>
+                                </li>
+                            </ul>
+                            <h4> [56:18] アメリカ人の買い物文化</h4>
+                            <br>
+                                <ul>
+                                    <li>スーパーで食料を買ってレジ待ちの間に開けて食べちゃう文化
+                                    <ul>
+                                        <li>エクストリームな目撃談としてはインド人の家族がピクニックみたいに食べてた</li>
+                                        <li>レジで胃薬とドリンクを取ってその場でガーッと飲んだメキシカンが「うわ、これ炭酸だ」と言いながら精算</li>
+                                        <br>
+                                        </ul>
+                                    </li>
+                                    <li>でもおおっぴらに許されてる感じは…
+                                    <ul>
+                                        <li>あるある</li>
+                                        <li>無いんじゃないの？</li>
+                                        <li>ビッグ・リボウスキとかの描かれ方を見ると、マナー違反と感じる</li>
+                                        <br>
+                                        </ul>
+                                    </li>
+                                    <li>使った電動ヒゲ剃りを返品した奴は許せない
+                                    <ul>
+                                        <li>剃る前からブラウンの広告みたいにいっぱい剃れてる</li>
+                                        <li>イチローがガッツポーズしただけで5点くらい入ったレベル</li>
+                                        <br>
+                                        </ul>
+                                    </li>
+                                    <li>社会システムの欠陥
+                                    <ul>
+                                        <li>スーパーボウルのシーズンではデカいテレビを買って、見終わったら返品するので電器屋さんが困ってる</li>
+                                        <li>ドレスを買って出席したら返品</li>
+                                        <li>返品しても現金ではなくお店のポイントで返すとか対策もある</li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </div>
+                        <img src="http://feeds.feedburner.com/~r/ida10_miyaoka/~4/mCiWaZ1mts8" height="1" width="1"/>]]>
+                    </content:encoded>
+                    <description>登場人物 レギュラー イダテン みやおか めぐみさん（イダテン奥さん） ねこ スペシャルゲスト 川村真司クリエイティブディレクター（イダテンみやおかと同窓生） 技師長さん（スーパージーニアスエンジニア。イダテン家近所） [5:35] 基本に立ち返って最近遊んでるゲームの</description>
+                    <media:content url="http://feedproxy.google.com/~r/ida10_miyaoka/~5/ygh3rENSs2w/20140518-01.mp3" fileSize="32115693" type="audio/mpeg"/>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:subtitle>登場人物 レギュラー イダテン みやおか めぐみさん（イダテン奥さん） ねこ スペシャルゲスト 川村真司クリエイティブディレクター（イダテンみやおかと同窓生） 技師長さん（スーパージーニアスエンジニア。イダテン家近所） [5:35] 基本に立ち返って最近遊んでるゲームの</itunes:subtitle>
+                    <itunes:author>iandme</itunes:author>
+                    <itunes:summary>登場人物 レギュラー イダテン みやおか めぐみさん（イダテン奥さん） ねこ スペシャルゲスト 川村真司クリエイティブディレクター（イダテンみやおかと同窓生） 技師長さん（スーパージーニアスエンジニア。イダテン家近所） [5:35] 基本に立ち返って最近遊んでるゲームの</itunes:summary>
+                    <itunes:keywords>ida10,miyaoka,ピコピコキャスト,picopicocast,pico2cast,pico</itunes:keywords>
+                    <feedburner:origLink>http://d.hatena.ne.jp/iandme/20140518/1400407056</feedburner:origLink>
+                    <enclosure url="http://feedproxy.google.com/~r/ida10_miyaoka/~5/ygh3rENSs2w/20140518-01.mp3" length="32115693" type="audio/mpeg"/>
+                    <feedburner:origEnclosureLink>http://www.t-p.jp/podcast/20140518-01.mp3</feedburner:origEnclosureLink>
+                </item>
+                <item>
+                    <title>第40回 『アナと雪の女王』を今度は吹替版でディズニーおじさんと語る。『ウォルト・ディズニーの約束』も</title>
+                    <link>http://feedproxy.google.com/~r/ida10_miyaoka/~3/2enlWZKgLIU/1396782150</link>
+                    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">iandme</dc:creator>
+                    <pubDate>Sun, 06 Apr 2014 04:02:30 PDT</pubDate>
+                    <guid isPermaLink="false">http://d.hatena.ne.jp/iandme/20140406/1396782150</guid>
+                    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">
+                    <![CDATA[
+                    <div class="section">
+                        <p>
+                            <span style="vertical-align:middle;">
+                                <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" width="220" height="25" id="mp3_3" align="middle" style="vertical-align:bottom">
+                                <param name="flashVars" value="mp3Url=http://www.t-p.jp/podcast/20140406.mp3">
+                                <param name="allowScriptAccess" value="sameDomain">
+                                    <param name="movie" value="http://g.hatena.ne.jp/tools/mp3_3.swf">
+                                    <param name="quality" value="high">
+                                        <param name="bgcolor" value="#ffffff">
+                                            <param name="wmode" value="transparent">
+                                                <embed src="http://g.hatena.ne.jp/tools/mp3_3.swf" flashvars="mp3Url=http://www.t-p.jp/podcast/20140406.mp3" quality="high" wmode="transparent" bgcolor="#ffffff" width="220" height="25" name="mp3_3" align="middle" allowScriptAccess="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" style="vertical-align:bottom">
+                                            </object>
+                                            <a href="http://www.t-p.jp/podcast/20140406.mp3">
+                                            <img src="http://g.hatena.ne.jp/images/podcasting.gif" title="Download" alt="Download" border="0" style="border:0px;vertical-align:bottom;">
+                                        </a>
+                                    </span>
+                                    <br>
+                                    </p>
+                                    <ul>
+                                        <li>登場人物
+                                        <ul>
+                                            <li>
+                                                <a href="https://twitter.com/IDA_10">
+                                                <img src="http://pbs.twimg.com/profile_images/56777836/IDA-10_mini.jpg">
+                                            </a> イダテン</li>
+                                            <li>
+                                                <a href="https://twitter.com/miyaoka">
+                                                <img src="http://pbs.twimg.com/profile_images/2774146083/128e5791dbcad9bee2f66aa32633674d_mini.png">
+                                            </a> みやおか</li>
+                                            <li>
+                                                <a href="https://twitter.com/asa10megumi">
+                                                <img src="https://pbs.twimg.com/profile_images/2667167870/4efe3b63e30159e32683c9e1b4bdfedf_mini.jpeg">
+                                            </a> めぐみさん（イダテン奥さん）</li>
+                                            <li>
+                                                <a href="https://twitter.com/iwmr">
+                                                <img src="https://pbs.twimg.com/profile_images/451424412244275201/BszBinsV_mini.jpeg">
+                                            </a> 咲間岩丸さん（スペシャルゲスト：ディズニー狂。<a href="http://maihamakyo.org/">舞浜狂</a>管理人）</li>
+                                            <br>
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                    <p>
+                                        <span style="font-weight:bold;color:#FF0000;font-size:large;" class="deco">※作品のネタバレ前提で話します。未見の方はぜひ鑑賞してからご覧ください。</span>
+                                        <br>
+                                        </p>
+                                        <h4>『Frozen（アナと雪の女王）』日本語吹き替え版を観て再度語る</h4>
+                                        <br>
+                                            <ul>
+                                                <li>売り上げにこだわる男
+                                                <ul>
+                                                    <li>前回の収録時に岩丸さんのツイッターを覗いたら売り上げの話しかしてなかった
+                                                    <ul>
+                                                        <li>本編内容に触れない話だと売り上げの話しかできない</li>
+                                                        <li>ディズニーファンってのはそういう不文律があるの？
+                                                        <ul>
+                                                            <li>人それぞれ</li>
+                                                        </ul>
+                                                    </li>
+                                                    <li>あーじゃあゲハ民が売り上げにこだわるのもゲーム内容に触れるとネタバレになるからか
+                                                    <ul>
+                                                        <li>意外にいい話じゃん！</li>
+                                                        <li>やさしい人たちだったんだ</li>
+                                                        <li>いきなりいい話がでてきた！</li>
+                                                        <br>
+                                                        </ul>
+                                                    </li>
+                                                </ul>
+                                            </li>
+                                        </ul>
+                                    </li>
+                                    <li>これまでの観賞
+                                    <ul>
+                                        <li>岩丸：3回観た
+                                        <ul>
+                                            <li>映画泥棒ですか！</li>
+                                            <li>字幕2D→吹き替え2D→字幕3D</li>
+                                        </ul>
+                                    </li>
+                                    <li>みやおか：2回
+                                    <ul>
+                                        <li>字幕3D→吹き替え2D</li>
+                                        <br>
+                                        </ul>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li>2回目について
+                            <ul>
+                                <li>
+                                    <div class="twitter-detail twitter-detail-left">
+                                        <div class="twitter-detail-user">
+                                            <a class="twitter-user-screen-name" href="http://twitter.com/miyaoka">
+                                            <img src="http://pbs.twimg.com/profile_images/2774146083/128e5791dbcad9bee2f66aa32633674d_normal.png" alt="miyaoka" height="48" width="48" onerror="this.parentNode.replaceChild(document.createTextNode(this.getAttribute('alt')), this);" >
+                                        </a>
+                                    </div>
+                                    <div class="twitter-detail-tweet">
+                                        <p class="twitter-detail-text">
+                                                  アナ雪吹き替えも観たけど、要素知り尽くした上で2回目、字幕→吹き替え、3D→2D、歌詞についてめぐみさんの説教、というもろもろで初見とはだいぶ別物に感じてしまった。比率的には5:2:2:1くらい
+                                                </p>
+                                            <p class="twitter-detail-info">
+                                                <a href="http://twitter.com/miyaoka/status/450696210353905664" class="twitter-detail-info-permalink">
+                                                <span class="twitter-detail-info-date">2014-04-01</span>
+                                                <span class="twitter-detail-info-time">03:08:44</span>
+                                            </a>
+                                            <span class="twitter-detail-info-source">via <a href="https://about.twitter.com/products/tweetdeck" rel="nofollow">TweetDeck</a>
+                                        </span>
+                                    </p>
+                                </div>
+                            </div>
+                        </li>
+                        <li>謎の比率はなんなの？
+                        <ul>
+                            <li>2回目の観賞で個人的に盛り下がってしまった要因の構成比</li>
+                            <li>吹き替え内容以前に、語り尽くして既に理解している映画だから発見が無くて盛り上がらなかった</li>
+                            <br>
+                            </ul>
+                        </li>
+                    </ul>
+                </li>
+            </ul>
+            <p>
+                <span style="color:#FF0000;" class="deco">※以下、日本語訳詞に対して批判的な意見が多くなりますが、翻訳だけで完璧なローカライズをするのはもちろん無理という前提で、オリジナルの工夫された意味合いからこぼれ落ちたもの、足されたものは何なのかという話をしています。そのへんは文字だけでなくトークを通したニュアンスで汲み取ってもらえればと思います。<br>
+                <br>あとディズニー狂の咲間さんならどんな批判でもフォローしてくれるはず…！と思ってガンガンとボールが投げられてました</span>
+                <br>
+                </p>
+                <ul>
+                    <li>一番印象の違いが出た"Let it go"
+                    <ul>
+                        <li>原語版だともう悲しくて悲しくてしょうがなかった</li>
+                        <li>吹き替え版だとああスッキリせいせいしたという気持ちになってしまったのがまるで違った</li>
+                        <li>歌単体だけではなくそれまでの流れが違うように感じられる</li>
+                        <li>2回目の観賞だからという要素もあるかも</li>
+                        <br>
+                        </ul>
+                    </li>
+                    <li>"Do you want to build a snowman?"
+                    <ul>
+                        <li>幼女時代・少女時代・成長後の3パートに分かれているが、特に幼女時代の吹き替えでだいぶ違う印象を受けた
+                        <ul>
+                            <li>英語版だと半分諦めながらも誘ってるお互いに悲しいシーンだけど、日本語はだいぶ一方的に見えてウザいという印象</li>
+                        </ul>
+                    </li>
+                    <li>"It doesn't have to be a snowman."
+                    <ul>
+                        <li>雪だるまつくろうは、エルサが寝てても起きて遊んでくれる魔法の言葉
+                        <ul>
+                            <li>もう雪だるまを作れないんだろうとなんとなく分かってるけど、それでも言わずにはいられない。だから雪だるまじゃなくてもいいよ、と</li>
+                        </ul>
+                    </li>
+                    <li>日本語版だと「雪だるまつくろう　大きな雪だるま」
+                    <ul>
+                        <li>さらに追い打ちを掛けるように誘ってしまう</li>
+                        <br>
+                        </ul>
+                    </li>
+                </ul>
+            </li>
+        </ul>
+    </li>
+    <li>岩丸製日米歌詞まとめ
+    <ul>
+        <li>誰作ったのこれ？ 狂ってる！</li>
+        <li>1センテンスごとにセルにまとまってて、英語と日本語歌詞と字幕と、…何この音節数って
+        <ul>
+            <li>岩丸さんこわいわー</li>
+            <br>
+            </ul>
+        </li>
+    </ul>
+</li>
+<li>"Go away, Anna."
+<ul>
+    <li>日本語だと「あっちいって！アナ」
+    <ul>
+        <li>イダテン家の三男と末娘が怖がっていた</li>
+        <li>ほんとは遊びたいのに遊べなくて悲しそうに言うセリフ</li>
+        <li>日本語だとなんで怒ってるの？と子供たちが疑問に感じてた</li>
+    </ul>
+</li>
+<li>マシュマロウも城から追い出す時に"Go away!"と言っていて呼応している
+<ul>
+    <li>日本語版だと「もう来るなー」</li>
+    <br>
+    </ul>
+</li>
+</ul>
+</li>
+<li>歌の内容と本編の結びつき
+<ul>
+    <li>いい歌があるだけでなくそれが本編にちゃんと結びついているのが良いところ</li>
+    <li>日本語版だとそういうところが残されづらい</li>
+    <li>"Conceal, don't feel"とか</li>
+    <li>そもそも訳詞と本編翻訳で別々のスタッフ</li>
+    <br>
+    </ul>
+</li>
+<li>『レ・ミゼラブル』の工夫
+<ul>
+    <li>ジャン・バルジャンの囚人番号 24601（two-four-six-oh-one）→24653（にー・よん・ろく・ごー・さん）</li>
+    <li>フォンティーヌの歌でTigerがやってくるところをオオカミにしてる</li>
+    <li>そこまで変えていても歌の魂が無くならないようにしてる</li>
+    <li>アナ雪にはそういう感じがしなくて、二人の性格が変わっているように見える</li>
+    <br>
+    </ul>
+</li>
+<li>欠落だけじゃなくて、足してんじゃん。勝手に
+<ul>
+    <li>「そばにいれば支え合える二人で」
+    <ul>
+        <li>これ今言っちゃ駄目でしょ</li>
+        <li>"For the first time in forever" のリプライズで "I finally understand" と歌う意味が無い</li>
+        <li>ここでのアナは途方に暮れてるだけでエルサのことを気遣う余裕が無い状況</li>
+        <li>それが後で変わるからいい話なのに</li>
+    </ul>
+</li>
+<li>咲間さんがフォローしてくれる（3回目）
+<ul>
+    <li>一番大事な部分でもったいないなーって</li>
+    <li>フォローになってないよ</li>
+</ul>
+</li>
+<li>"Oh I'm such a fool! I can't be free!"→「ひどいわ悲しい」
+<ul>
+    <li>誰に対して言ってるの？</li>
+    <li>悲しいことを表すために悲しいと言ってしまうのもありえない</li>
+    <li>悲しくはなくて自分を責めてる状況</li>
+</ul>
+</li>
+<li>全体を眺めてると訳詞者の中で作られたキャラクターの性格になっている
+<ul>
+    <li>原作者と密にやり取りしたって記事を読んだけど、でもちゃんと理解してないなって思った</li>
+</ul>
+</li>
+<li>日本の女性を元気づけたいみたいな意図
+<ul>
+    <li>そんな顔してた</li>
+    <li>顔で語っちゃ駄目でしょ</li>
+    <br>
+    </ul>
+</li>
+</ul>
+</li>
+<li>映像とのシンク
+<ul>
+    <li>リップシンクにこだわってるけど映像とのシンクはおざなりに</li>
+    <li>"Love is an open door" で扉を開ける映像のシーンで「二人だから」→壊滅的に合ってない！</li>
+    <li>「二人だから とびら開けて 飛び出せるの」→「とびら開けて 二人だから 飛び出せるの」でいいじゃん</li>
+    <br>
+    </ul>
+</li>
+<li>"We finish each other's Sandwiches"
+<ul>
+    <li>we finish each other's sentencesという慣用句のジョーク。ジンクス遊び</li>
+    <br>
+    </ul>
+</li>
+<li>日本語の歌は良かった
+<ul>
+    <li>"Do you want to build a snowman?"では幼女時代は違和感を覚えつつも、少女時代はシュガー・ラッシュのヴァネロペ役の諸星すみれ、成長後は神田沙也加ですごくしっかりした歌だった</li>
+    <li>これで歌詞も良ければ</li>
+    <br>
+    </ul>
+</li>
+<li>本作における扉
+<ul>
+    <li>セリフ、歌詞、映像すべてにおいて重要</li>
+    <li>だから"Love is an open door"で「二人だから」とか言ってる場合じゃない</li>
+    <li>その後のハンスが扉をシャットアウトして出て行くというシーンにも呼応</li>
+    <li>愛の象徴のオラフが扉を開けて入ってくるのも重要</li>
+    <br>
+    </ul>
+</li>
+</ul>
+<h4>[1:58:58]『Saving Mr. Banks（ウォルト・ディズニーの約束）』</h4>
+<br>
+    <ul>
+        <li>アナ雪より良かったね
+        <ul>
+            <li>アナ雪はすごくよく出来てるから1回見れば95%くらい理解できてしまってリプレイバリューが低い</li>
+            <li>Saving Mr. Banksはラストも含めてけっこう複雑な感情が残るのでもう一回観てみたい</li>
+            <br>
+                <br>
+                    <br>
+                    </ul>
+                </li>
+            </ul>
+            <p>
+                <hr>
+                </p>
+                <ul>
+                    <li>使用曲
+                    <ul>
+                        <li>
+                            <a href="http://moldiloxchips.bandcamp.com/album/the-drifting-classroom" target="_blank">“The Drifting Classroom” (by Moldilox)</a>
+                        </li>
+                    </ul>
+                </li>
+            </ul>
+        </div>
+        <img src="http://feeds.feedburner.com/~r/ida10_miyaoka/~4/2enlWZKgLIU" height="1" width="1"/>]]>
+    </content:encoded>
+    <description>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 咲間岩丸さん（スペシャルゲスト：ディズニー狂。舞浜狂管理人） ※作品のネタバレ前提で話します。未見の方はぜひ鑑賞してからご覧ください。 『Frozen（アナと雪の女王）』日本語吹き替え版を観て再度語る 売り</description>
+    <media:content url="http://feedproxy.google.com/~r/ida10_miyaoka/~5/zjBmLgjxZ6M/20140406.mp3" fileSize="82511541" type="audio/mpeg"/>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:subtitle>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 咲間岩丸さん（スペシャルゲスト：ディズニー狂。舞浜狂管理人） ※作品のネタバレ前提で話します。未見の方はぜひ鑑賞してからご覧ください。 『Frozen（アナと雪の女王）』日本語吹き替え版を観て再度語る 売り</itunes:subtitle>
+    <itunes:author>iandme</itunes:author>
+    <itunes:summary>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 咲間岩丸さん（スペシャルゲスト：ディズニー狂。舞浜狂管理人） ※作品のネタバレ前提で話します。未見の方はぜひ鑑賞してからご覧ください。 『Frozen（アナと雪の女王）』日本語吹き替え版を観て再度語る 売り</itunes:summary>
+    <itunes:keywords>ida10,miyaoka,ピコピコキャスト,picopicocast,pico2cast,pico</itunes:keywords>
+    <feedburner:origLink>http://d.hatena.ne.jp/iandme/20140406/1396782150</feedburner:origLink>
+    <enclosure url="http://feedproxy.google.com/~r/ida10_miyaoka/~5/zjBmLgjxZ6M/20140406.mp3" length="82511541" type="audio/mpeg"/>
+    <feedburner:origEnclosureLink>http://www.t-p.jp/podcast/20140406.mp3</feedburner:origEnclosureLink>
+</item>
+<item>
+    <title>第39回 観てから聞こう！ディズニー映画『アナと雪の女王』を語る2時間半</title>
+    <link>http://feedproxy.google.com/~r/ida10_miyaoka/~3/OO34FTQphJo/1394966940</link>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">iandme</dc:creator>
+    <pubDate>Sun, 16 Mar 2014 03:49:00 PDT</pubDate>
+    <guid isPermaLink="false">http://d.hatena.ne.jp/iandme/20140316/1394966940</guid>
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <![CDATA[
+    <div class="section">
+        <p>
+            <span style="vertical-align:middle;">
+                <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" width="220" height="25" id="mp3_3" align="middle" style="vertical-align:bottom">
+                <param name="flashVars" value="mp3Url=http://www.t-p.jp/podcast/20140316.mp3">
+                <param name="allowScriptAccess" value="sameDomain">
+                    <param name="movie" value="http://g.hatena.ne.jp/tools/mp3_3.swf">
+                    <param name="quality" value="high">
+                        <param name="bgcolor" value="#ffffff">
+                            <param name="wmode" value="transparent">
+                                <embed src="http://g.hatena.ne.jp/tools/mp3_3.swf" flashvars="mp3Url=http://www.t-p.jp/podcast/20140316.mp3" quality="high" wmode="transparent" bgcolor="#ffffff" width="220" height="25" name="mp3_3" align="middle" allowScriptAccess="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" style="vertical-align:bottom">
+                            </object>
+                            <a href="http://www.t-p.jp/podcast/20140316.mp3">
+                            <img src="http://g.hatena.ne.jp/images/podcasting.gif" title="Download" alt="Download" border="0" style="border:0px;vertical-align:bottom;">
+                        </a>
+                    </span>
+                    <br>
+                    </p>
+                    <ul>
+                        <li>登場人物
+                        <ul>
+                            <li>
+                                <a href="https://twitter.com/IDA_10">
+                                <img src="http://pbs.twimg.com/profile_images/56777836/IDA-10_mini.jpg">
+                            </a> イダテン</li>
+                            <li>
+                                <a href="https://twitter.com/miyaoka">
+                                <img src="http://pbs.twimg.com/profile_images/2774146083/128e5791dbcad9bee2f66aa32633674d_mini.png">
+                            </a> みやおか</li>
+                            <li>
+                                <a href="https://twitter.com/asa10megumi">
+                                <img src="https://pbs.twimg.com/profile_images/2667167870/4efe3b63e30159e32683c9e1b4bdfedf_mini.jpeg">
+                            </a> めぐみさん（イダテン奥さん）</li>
+                            <br>
+                            </ul>
+                        </li>
+                    </ul>
+                    <p>
+                        <span style="font-weight:bold;color:#FF0000;font-size:large;" class="deco">※作品のネタバレ前提で話します。未見の方はぜひ鑑賞してからご覧ください。</span>
+                        <br>
+                            <br>観た方は <a href="http://waltdisneystudiosawards.com/#/frozen/screenplay" target="_blank">公式サイトで公開されている脚本</a> を読みながら振り返るといいと思います。<br>
+                        </p>
+                        <h4>『Frozen（邦題：アナと雪の女王）』がようやく日本でも公開</h4>
+                        <br>
+                            <ul>
+                                <li>いよいよ日本でも公開
+                                <ul>
+                                    <li>邦題：アナと雪の女王
+                                    <ul>
+                                        <li>略して→アナ雪</li>
+                                        <li>あなゆき？</li>
+                                        <li>あなせつじゃないの？
+                                        <ul>
+                                            <li>なんで、せつ？</li>
+                                            <br>
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </li>
+                        <li>3ヶ月のビハインド問題
+                        <ul>
+                            <li>北米では11月末のサンクスギビングのシーズンに公開
+                            <ul>
+                                <li>日本公開は3ヶ月以上も空いてる</li>
+                                <li>前作『シュガー・ラッシュ』のときも同様で、観たばかりのみやおかは興奮して話していたが、イダテンは細部を忘れてて「そんな話だっけ？」と話の熱意が噛み合わなかった</li>
+                            </ul>
+                        </li>
+                        <li>でもそれから3回観てるし、YouTubeとかで曲を聞いて今でも子供たちが歌って踊ってる
+                        <ul>
+                            <li>なのでまだまだイダテン家では興奮が冷めてない</li>
+                            <li>北米ではそろそろBD/DVDがリリースされるので店頭に見に行ったらプロモ映像でその場で子供たちが大声で歌い出すくらい</li>
+                        </ul>
+                    </li>
+                    <li>グッズもバカ売れ
+                    <ul>
+                        <li>プレミアついてたり</li>
+                    </ul>
+                </li>
+                <li>北米でもまだやってる映画館もある
+                <ul>
+                    <li>時期的にオスカー取ったというのもある</li>
+                    <br>
+                    </ul>
+                </li>
+            </ul>
+        </li>
+        <li>めぐみさん：近年観た中で一番心に残る
+        <ul>
+            <li>親の立場として
+            <ul>
+                <li>自分たち亡き後、子供たちが頑張っている姿に見える</li>
+                <br>
+                </ul>
+            </li>
+        </ul>
+    </li>
+    <li>"Do you want to build a snowman?"
+    <ul>
+        <li>
+            <object width="425" height="336">
+                <param name="movie" value="http://www.youtube.com/v/6ZOI1yUGPBQ">
+            </param>
+            <param name="wmode" value="transparent">
+            </param>
+            <embed src="http://www.youtube.com/v/6ZOI1yUGPBQ" type="application/x-shockwave-flash" wmode="transparent" width="425" height="336" FlashVars="movie_url=http://d.hatena.ne.jp/video/youtube/6ZOI1yUGPBQ">
+        </embed>
+    </object>
+    <a href="http://d.hatena.ne.jp/video/youtube/6ZOI1yUGPBQ" alt="この動画を含む日記">
+    <img src="http://d.hatena.ne.jp/images/d_entry.gif" alt="D" border="0" style="vertical-align: bottom;" title="この動画を含む日記">
+</a>
+</li>
+<li>幼年時代から手袋の封印、両親の死、成長の過程をミュージカル3分で一気に消化
+<ul>
+    <li>本編の背景となるストーリーがぎゅっと凝縮されている</li>
+    <li>ドアの手すりの前に立たせることで段階的な背丈の伸び具合も分かりやすい</li>
+    <li>隔たりとしてのドアは子供目線だと特に強い</li>
+    <li>ドアを挟んでタイトルフレーズを歌うが、成長後では状況が変わっている
+    <ul>
+        <li>最後はお互い座り込んで子供の頃と同じ高さになる</li>
+        <li>ハリウッド映画お約束の「同じ視点に戻ってくるが見えている世界が変わっている」手法を、映画全体だけでなくこの小さなサイクルの中でも用いている</li>
+    </ul>
+</li>
+<li>いろいろ詰まっているのに説明的にならず、処理が上手い</li>
+<li>中盤で騎士の絵を指差すところは"Hang in there, John"に聞こえて誰だろうと思ったら、JohnではなくJoanでジャンヌ・ダルクのことだった（戦う女性、カトリック、異端、犠牲、復権といった要素がテーマに通ずる）</li>
+</ul>
+</li>
+<li>でもこの曲はカット寸前だったらしい
+<ul>
+    <li>これがなかったら成り立たないじゃない？</li>
+    <li>redditでどの曲が一番好き？という質問に、監督やプロデューサーなどの主要スタッフが答えたのがこの曲</li>
+    <li>カット寸前で短期契約のスタッフもたくさん雇わなければいけなかったけど作って良かったと
+    <ul>
+        <li>
+            <a href="http://www.reddit.com/r/IAmA/comments/1xj4n5/hi_reddit_we_made_frozen_ask_us_anything/cfbsxd3" target="_blank">Disney_Frozen comments on Hi reddit! We made FROZEN! Ask Us Anything!</a>
+        </li>
+    </ul>
+</li>
+</ul>
+</li>
+<li>良かったでしょこのシーン
+<ul>
+    <li>ていうか最初の氷を切り出すシーンから泣いてた</li>
+    <br>
+    </ul>
+</li>
+</ul>
+</li>
+<li>悪役視点のお話
+<ul>
+    <li>シュガー・ラッシュでも悪役に焦点を当てていたというのもあるけど、現代的なテーマの映画には多い
+    <ul>
+        <li>今だとむしろ悪役側に背景が無いということがほとんど無い。その点で言えば駄作とされる『ダイ・ハード／ラスト・デイ』とかは現代でも一時代前の純粋な悪役っぽくて新鮮に感じられるくらいだった</li>
+    </ul>
+</li>
+<li>本編前に『眠れる森の美女』の魔女を主役にした『マレフィセント』の予告が流れて、それですっかり悪役側の気持ちだった
+<ul>
+    <li>まあ眠れる森の美女、観てないんだけどね</li>
+    <li>はぁ？！</li>
+    <li>ごめんなさいごめんなさいごめんなさい</li>
+</ul>
+</li>
+<li>だから本編前のミッキー短編『Get a horse』では、悪役がこれでもかと容赦無くいたぶられてて正直見てられないほどつらかった
+<ul>
+    <li>むろんそれはクラシックな時代性の再現なんだけど、雪の女王が主役のfrozenでこれを組み合わせるのがきつい</li>
+    <li>ミニーちゃんが悪女ビッチすぎる
+    <ul>
+        <li>
+            <a href="http://instagram.com/p/g1-JkhLcXi/">
+            <img src="http://distilleryimage6.ak.instagram.com/80bf5582500d11e3a42a129126c09f83_6.jpg">
+        </a>
+    </li>
+    <li>70年代くらいの紙芝居でのセリフ</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>マレフィセント→クラシックディズニー→本編という流れ
+<ul>
+    <li>そうした流れで本編ファーストカットが凍った湖の水中から見上げるところから始まり、それがアンデルセン的な『雪の女王』の心境となってもう泣いてた</li>
+    <br>
+    </ul>
+</li>
+</ul>
+</li>
+</ul>
+<h4>[16:17] ディズニーアニメーションの再定義</h4>
+<br>
+    <ul>
+        <li>再定義的な作品
+        <ul>
+            <li>従来のディズニーのお約束に正面から丁寧に取り組んでいく姿勢</li>
+            <li>そもそも魔法とは、true loveとは、王子とは、キスとは何か？
+            <ul>
+                <li>総括すると、ディズニーアニメーションとは何かを再定義している作品</li>
+            </ul>
+        </li>
+        <li>歌についても無駄なミュージカルシーンが無い
+        <ul>
+            <li>"Love is an Open Door"</li>
+            <li>一気に恋に落ちるシーン。ミュージカルらしいわざとらしさを敢えてやっているが、これがないと恋に落ちたという心情が説明できない</li>
+        </ul>
+    </li>
+    <li>『007 スカイフォール』もシリーズのお約束を正面から解体し、再構築していく作品</li>
+    <li>観客の世代が新しくなり、制作スタッフもかつて観客としてシリーズを見ていた世代が担うようになると必ず突きつけられる課題
+    <ul>
+        <li>アメリカだと特にバットマンやスパイダーマンなどの同じ作品を様々な時代の人が手がけ続けるという文化的なものもあるかも</li>
+    </ul>
+</li>
+<li>そういうのをディズニーがやるというのがすごい
+<ul>
+    <li>『シュレック』がクラシックディズニーをおちょくったり、『魔法にかけられて』も若干セルフパロディだけど、そういうパロディ、パスティーシュに落とし込まない</li>
+    <li>パロディも白けてしまうから真剣にやるのが今の時代性かなあ？</li>
+    <br>
+    </ul>
+</li>
+</ul>
+</li>
+<li>本編テーマ：愛とはなんだ、という重くてシリアスな題材を正面からやれるのはディズニーならでは
+<ul>
+    <li>例えばこれがピクサーだと想像しがたい
+    <ul>
+        <li>ディズニーにはプリンセスやミュージカルの積み重ねの歴史がある</li>
+    </ul>
+</li>
+<li>ピクサーが一時期完全にディズニーを追い抜かしたのは、子供向けでマンネリになっていたプリンセスやミュージカル要素を排除して、大人も共感できるような欠落を抱えたキャラクターたちを打ち出したという文脈
+<ul>
+    <li>ディズニーらしさを時代の王道に載せ戻してきたのが近作</li>
+    <li>短編Get a horceも本来ピクサー的な実験性があり、いまやそれをディズニーがやっていて勢いがある</li>
+</ul>
+</li>
+<li>『Tangled（塔の上のラプンツェル）』で「プリンセス物はもうおしまい」と言っていたように、シュガー・ラッシュでは選挙制、今作でもプリンセスを再定義という流れにある</li>
+<br>
+</ul>
+</li>
+<li>ミュージカルの強さ
+<ul>
+    <li>シュガー・ラッシュに比べると、なんといってもミュージカルシーンがとても強い</li>
+    <li>一時期ミュージカルというとおちょくられる対象だったけど、本作などは真正面から強さを発揮している</li>
+    <li>イダテン家の子供たちがいつもレミゼを大合唱してたので、特に子供にはミュージカルすごいなと感じてた
+    <ul>
+        <li>歌の持つ力と浸透力</li>
+        <li>
+            <object width="425" height="336">
+                <param name="movie" value="http://www.youtube.com/v/gavEC5aWAzM">
+            </param>
+            <param name="wmode" value="transparent">
+            </param>
+            <embed src="http://www.youtube.com/v/gavEC5aWAzM" type="application/x-shockwave-flash" wmode="transparent" width="425" height="336" FlashVars="movie_url=http://d.hatena.ne.jp/video/youtube/gavEC5aWAzM">
+        </embed>
+    </object>
+    <a href="http://d.hatena.ne.jp/video/youtube/gavEC5aWAzM" alt="この動画を含む日記">
+    <img src="http://d.hatena.ne.jp/images/d_entry.gif" alt="D" border="0" style="vertical-align: bottom;" title="この動画を含む日記">
+</a>
+<ul>
+    <li>子供よりハマってる夫婦</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>映画本編自体の制作も歌によって変わったらしい
+<ul>
+    <li>"Let it go"が出来たときに、エルサのキャラクターが変わったとのこと</li>
+    <li>
+        <a href="http://disney.wikia.com/wiki/Elsa_the_Snow_Queen">
+        <img src="http://img1.wikia.nocookie.net/__cb20140127114420/disney/images/thumb/1/1d/Art_of_Frozen.jpg/250px-Art_of_Frozen.jpg">
+    </a>
+</li>
+<li>もともとはダークな魔女キャラで、今のエルサのほうがスケッチ数が少ないほど</li>
+<li>アナももっと薄幸そうなキャラだった</li>
+<li>じゃあ元の話はどんなんだったんだろね</li>
+<br>
+</ul>
+</li>
+</ul>
+</li>
+<li>magicとは何か
+<ul>
+    <li>エルサがなんで持ってるのか、そして何故解けないのか
+    <ul>
+        <li>親視点で見ると、子供が生まれ持った障害・ハンディキャップのメタファーにも見える</li>
+        <li>エルサの両親と同様に庇ってしまうだろうけど、それでは子供が自立できない</li>
+        <li>ハンディキャップ自体が悪いものではなく、周囲への理解を築かないことを問題にしている描き方</li>
+        <li>呪いと魔法は表裏一体</li>
+    </ul>
+</li>
+<li>みやおか的にはディズニー作品を観慣れていないせいか、ディズニーのクラシック要素としてのmagic（の再定義）というもの自体にけっこう新鮮味があった
+<ul>
+    <li>アナがDo the magic! と言ってエルサの手から雪がほとばしる。単純に、その映像的な表現だけで『ファンタジア』的にぐっとくるものがある（これも観てないけど）</li>
+    <li>特に映画だと、元来映画映像自体がメリエス的なmagic (illusion)であり、虚構と現実の狭間でマジックが掛かったシーンが立ち現れることを意識することが多いので、キーフレーズ的に強さを感じる</li>
+    <br>
+    </ul>
+</li>
+</ul>
+</li>
+<li>ダブル主人公
+<ul>
+    <li>イダテン家の4歳児と6歳児を見てきたので、ドアを隔てて引き離されてしまうシーンには格別つらさが感じられた</li>
+    <br>
+    </ul>
+</li>
+</ul>
+<h4>[37:50] 雪だるまオラフ</h4>
+<br>
+    <ul>
+        <li>脚本的な感想
+        <ul>
+            <li>ミュージカルシーンでドライブしてとにかくアガるが、全体的な印象だと細部で不満もあり、ちょっとだけ中盤にだるさを感じてしまった</li>
+            <li>氷のモンスター（マシュマロ）あたりはちょっと不要じゃない？
+            <ul>
+                <li>あれはオラフと対になった存在。みんな対になってるお話だから必要</li>
+                <li>だったらもう少しオラフとマシュマロの絡みもほしい</li>
+                <br>
+                </ul>
+            </li>
+        </ul>
+    </li>
+    <li>オラフの存在性
+    <ul>
+        <li>子供の時の雪だるまが現れるのは、イマジナリーフレンド的でもあり、別れと卒業が予感させられるので切ない</li>
+        <li>雪だるまだからいずれ溶けることも必至で、最初から自己犠牲を体現している存在性</li>
+        <li>メタファーあふれるキャラだから、もうちょっとそのへんで話を盛り込んで見せて欲しかった</li>
+        <li>どうせ溶けても作り直すのは分かってるんだけど
+        <ul>
+            <li>全国のお友達が泣いちゃう！</li>
+            <li>ブリッグズの『スノーマン』の絵本を子供にプレゼントしたら、悲しすぎて二度と読んでくれなかった</li>
+            <br>
+            </ul>
+        </li>
+    </ul>
+</li>
+<li>解説（メガネ君）キャラ
+<ul>
+    <li>アナがサクリファイスを体現するシーンも子供には何が起こってるのか分からない
+    <ul>
+        <li>そこでオラフがすかさず「An act of true love!（これぞ『真実の愛の行為』ですゾ！！（メガネをクイッとさせながら））」</li>
+        <li>クリストフがやってくるシーンも言葉で丁寧に解説</li>
+    </ul>
+</li>
+<li>最近のゲームのコンパニオンキャラ（TLoUのエリー、BIのエリザベス）のように、無敵属性で気にかける必要がなく、でも溶ければ死ぬという便利なキャラ</li>
+<br>
+</ul>
+</li>
+<li>藤子F的サクリファイス
+<ul>
+    <li>なんだっけ、『ドラえもん』の雪の精を呼び出す…、「「精霊よびだしうでわ」」（ハモる）</li>
+    <li>のび太が呼び出した雪の精が大雪を降らせて冬を謳歌するが、そのためにのび太が凍えて風邪をひかせてしまったため自分の存在を消してしまう</li>
+    <li>台風のフー子もちょっと近い</li>
+    <br>
+    </ul>
+</li>
+<li>元々はアンデルセンの『Sneemanden（雪だるま）』という話があるらしい
+<ul>
+    <li>本作は「雪の女王」と「雪だるま」を元にしているとのこと</li>
+    <li>雪だるまなんだけど暖炉にあたることを夢見ていて、最後に暖炉にあたって溶けて死ぬ話
+    <ul>
+        <li>ちがうよ！</li>
+        <li>ちがった</li>
+    </ul>
+</li>
+<li>いつも体の中からキンキンカンカンと音がして暖炉を懐かしく思っている雪だるま。やがて春になって溶けてしまうとそこには暖炉の火かき棒が残り、それを芯にして作られた雪だるまだから暖炉に憧れていたのだと分かるという話
+<ul>
+    <li>叶わない夢を生まれつきハートに抱えてしまっている矛盾性が不条理人生観でシビれる</li>
+    <li>frozenのオラフは幼年時代のアナとエルサの愛から作られた存在</li>
+</ul>
+</li>
+<li>エルサがLet it goを歌うシーンで無意識的にオラフを作り残していって、後から来たアナたちと出会う</li>
+<br>
+</ul>
+</li>
+</ul>
+<h4>[46:15] エルサの境遇</h4>
+<br>
+    <ul>
+        <li>"Let it go"
+        <ul>
+            <li>すごかったねー</li>
+            <li>でも俗な言い方をすると、家計や妹のためにキャバ嬢に身を落としていく姉さんに見える
+            <ul>
+                <li>なのに妹はジンクスジンクス言って浮かれてる</li>
+            </ul>
+        </li>
+        <li>アメリカにキャバクラってあるの？フーターズ？
+        <ul>
+            <li>フーターズだいぶ減ってる</li>
+        </ul>
+    </li>
+    <li>キラキラした城を構えて、髪をバサアッとして、派手な服を着るのは水商売にしか見えない</li>
+    <li>エルサが地面を踏みしめて氷を張るシーン
+    <ul>
+        <li>イダテン家の末娘が真似をしてドシンドシンとやってて地響きがすごい</li>
+        <li>
+            <div class="twitter-detail twitter-detail-left">
+                <div class="twitter-detail-user">
+                    <a class="twitter-user-screen-name" href="http://twitter.com/YDR_Jerseyman">
+                    <img src="http://pbs.twimg.com/profile_images/3713390128/b7e4e4f99d5d3b409341859bad363666_normal.png" alt="YDR_Jerseyman" height="48" width="48" onerror="this.parentNode.replaceChild(document.createTextNode(this.getAttribute('alt')), this);" >
+                </a>
+            </div>
+            <div class="twitter-detail-tweet">
+                <p class="twitter-detail-text">
+                          エルサの地面凍らせる足踏みが完全にダウン攻撃(ゲーム脳
+                        </p>
+                    <p class="twitter-detail-info">
+                        <a href="http://twitter.com/YDR_Jerseyman/status/444489516745641985" class="twitter-detail-info-permalink">
+                        <span class="twitter-detail-info-date">2014-03-15</span>
+                        <span class="twitter-detail-info-time">00:05:33</span>
+                    </a>
+                    <span class="twitter-detail-info-source">via <a href="https://mobile.twitter.com" rel="nofollow">Mobile Web (M5)</a>
+                </span>
+            </p>
+        </div>
+    </div>
+</li>
+<li>「コマンド↓Kで出る技だ」</li>
+<br>
+</ul>
+</li>
+</ul>
+</li>
+<li>地面を踏むシーン
+<ul>
+    <li>3回出てくる
+    <ul>
+        <li>幼女時代にスケートリンクを作るために</li>
+        <li>Let it goで自分の城を作るために</li>
+        <li>エンディングで王国の人たちのために</li>
+    </ul>
+</li>
+<li>妹のため、自分のため、みんなのためと変わっていく</li>
+<li>エンディングのシーンではアナが幼女時代と同じ服を着ている
+<ul>
+    <li>まさに王道の原点に立ち戻るシナリオ</li>
+    <br>
+    </ul>
+</li>
+</ul>
+</li>
+<li>Conceal it. Don't feel it.
+<ul>
+    <li>幼年期にエルサがお父さんから手袋をもらった時の言葉</li>
+    <li>キーワード的に何回も出てきて自分を戒める</li>
+    <li>ラプンツェルと同様に親の愛が仇になっちゃってるという感じ？
+    <ul>
+        <li>仇でもなくて、親の愛として否定はしていない</li>
+        <br>
+        </ul>
+    </li>
+</ul>
+</li>
+<li>様々な愛
+<ul>
+    <li>親の愛、きょうだい愛、恋愛、まがい物の愛、自己愛
+    <ul>
+        <li>どれも否定はしていない</li>
+        <li>そうした中でエルサを救う真の愛は何か</li>
+    </ul>
+</li>
+<li>親の庇護を抜けて独立するしか無い
+<ul>
+    <li>庇護の象徴である手袋をエルサに片方取られて、Let it goの過程でもう片方も外すが、そこではまだ理解に至っていない</li>
+    <li>ラプンツェル的な話だと親の排除で独立となるが、frozenではあらかじめ親が亡くなっているという状況で自ら獲得していく</li>
+    <br>
+    </ul>
+</li>
+</ul>
+</li>
+</ul>
+<h4>[54:30] 原作要素</h4>
+<br>
+    <ul>
+        <li>トロール
+        <ul>
+            <li>一番悪いのはあの人達だよね。仇といえばあの人達！</li>
+            <li>アンデルセンの原作だとそもそも悪魔の鏡を作ったのがトロールだけど、本作のトロールが何を意味するのかあまり分からなかった</li>
+            <li>ヒッピーとか自然愛主義者の人たちに見える</li>
+            <li>娘が死にかけて動揺してる親にトラウマになるようなアドバイスをする
+            <ul>
+                <li>記憶消さなければ良かったのに</li>
+            </ul>
+        </li>
+        <li>最後エルサがみんなに魔法を見せるが、アナの記憶が戻るわけではない
+        <ul>
+            <li>ずっと背負っていかなきゃいけない</li>
+            <li>ひどくない？ トロールのせいだよ</li>
+        </ul>
+    </li>
+    <li>エルサに魔法を与えたのもトロール？
+    <ul>
+        <li>魔法は生まれつき。心を狂わせたのがトロール</li>
+        <li>ノベライズだとそのへん詳しく出てくるらしい</li>
+        <br>
+        </ul>
+    </li>
+</ul>
+</li>
+<li>カイとゲルダ
+<ul>
+    <li>出てきたの？って思ったが、調べてみると二人とも宮廷の使用人で、戴冠式の日にアナを起こしたり、アナウンスをしたり、凍えたアナをクリストフから受け取ったり、最後に公爵に二度と来んなと言ったりと出番が多かった。</li>
+    <li>
+        <a href="http://disney.wikia.com/wiki/Kai_and_Gerda">
+        <img src="http://img3.wikia.nocookie.net/__cb20140314114520/disney/images/thumb/d/d2/Kai-and-Gerda.png/258px-Kai-and-Gerda.png">
+    </a>
+</li>
+<li>中年なので、原作の何十年か後という設定なのか、名前だけ当ててるのか</li>
+<br>
+</ul>
+</li>
+<li>ハンスは「鏡」
+<ul>
+    <li>明確な悪役が出てこないからトロールにめぐみさんの憤りが…
+    <ul>
+        <li>ハンスは悪役でしょ？</li>
+        <li>ちがうよ、ハンスは鏡なんだって。だから全部対になってるの
+        <ul>
+            <li>ああーー、そっか</li>
+        </ul>
+    </li>
+</ul>
+</li>
+<li>アナがハンスに会ったとき、うっとりするとハンスもアナにうっとりする
+<ul>
+    <li>“Love is an Open Door” の歌詞も同じ言葉を返すばかり</li>
+</ul>
+</li>
+<li>ハンスがマシュマロに対峙すると凶暴性を映して戦い、エルサに対峙すると不安を映して同じ目をする</li>
+<li>暖炉のシーンでの心変わりはアナに裏切られたエルサを映している
+<ul>
+    <li>エルサがアナに手袋を取られたのを反映して、ハンスも手袋を取る</li>
+</ul>
+</li>
+<li>制作者のブログによると、原作に出てくる鏡というモチーフをどうするかという結果生まれたのがハンス
+<ul>
+    <li>俺もそう思った</li>
+    <br>
+    </ul>
+</li>
+</ul>
+</li>
+<li>ハンスとクリストフ
+<ul>
+    <li>アンデルセンのフルネームがHans Christian Andersen（ハンス・クリスチャン・アンデルセン）なので、ハンスとクリストフの名前はそこから取って対の存在にしている</li>
+    <li>ハンスが13番目の弟でユダのモチーフを表してたりするので、クリストフはキリストがモチーフかと思ったらそうではなかった</li>
+    <li>アンデルセンにちょっと詳しければすぐ分かりそうな感じ
+    <ul>
+        <li>アンデルセンっていったらパン屋さん</li>
+        <br>
+        </ul>
+    </li>
+</ul>
+</li>
+</ul>
+<h4>[1:06:31] キリスト教倫理</h4>
+<br>
+    <ul>
+        <li>日本での受容のされ方
+        <ul>
+            <li>キリスト教の下地の無い文化でどう受容されるか
+            <ul>
+                <li>「感動しましたー！愛の物語でしたー！」</li>
+                <li>『ナルニア国物語』の第一話とかイエス・キリストの復活をモチーフにしてる</li>
+                <li>frozenではthe act of true loveに対する答えがサクリファイスと描いているがそれがすんなり受け取れるのか</li>
+            </ul>
+        </li>
+        <li>みやおか的には聖書もちゃんと読んだことがないしミサに出たこと無いから教義的に理解しているとは言いがたい
+        <ul>
+            <li>でもキリスト教圏の映画（つまりほとんどの外国映画）を見ているとしょっちゅうほぼ100%と言っても過言ではないくらいモチーフが出てくる</li>
+            <li>チャップリンの『街の灯』を観た時に、さんざん言葉では言われている「無償の愛」というのはこれのことか、ってそこで初めて理解した</li>
+            <li>愛がどうこうというより、その行為自体がとても美しいものだなあと感じられた</li>
+            <li>それ見て映画で初めて泣いて以来、そういうのが出てくると反射的にカタルシスとなって感極まってしまう</li>
+            <li>映画見ているうちにそういうものなんだろうなと理解した形だけど、地域的に習慣のあるキリスト教圏であればみんなが当然知ってる常識的な倫理観だろうと感じる</li>
+        </ul>
+    </li>
+    <li>日本のブログで感想拾って読むと、「真の愛とは…、姉妹愛のことだったのです！」みたいな感想になりがち
+    <ul>
+        <li>あと百合とか</li>
+    </ul>
+</li>
+<li>true loveだけ取り出すのではなく、the act of true loveとして語られ、それがサクリファイスなどに体現される
+<ul>
+    <li>今までのクラシックディズニーであれば愛の行為＝王子のキスだったが、本作では否定している</li>
+    <br>
+    </ul>
+</li>
+</ul>
+</li>
+<li>文化に無いということ
+<ul>
+    <li>I love youを夏目漱石が「月が綺麗ですね」と訳したネタの文脈背景はよく知らないが、外国文化のloveを単純に日本語の愛に置き換えることが難しかったということなんじゃないかという気はする（しらん）</li>
+    <li>姉妹愛、と書いた人も自己犠牲の愛というのが上手く位置づけられなくてそうしたんじゃないか</li>
+    <li>儒教的には血縁の愛で、目上を敬うとか目下を気遣うとかそういうのが文化的に強いんじゃないかと感じる</li>
+    <li>磔にされてまで人を救ったキリストさんみたいなマジリスペクトカッケーっすといった明確なエピソード的理解が無い</li>
+    <br>
+    </ul>
+</li>
+<li>自己犠牲
+<ul>
+    <li>最初に自己犠牲をしたのはエルサ。妹や周りの人のために、自分の感情と自由を押し殺して隠し続けてきた。</li>
+    <li>それなのにジンクスジンクス言ってるアナが、姉さんは本当の愛が分かってない、と言ってきてそりゃあ姉さんキレますわ</li>
+    <li>だから愛を知らなかったのはアナのほうであり、ハートが凍ってしまう</li>
+    <br>
+    </ul>
+</li>
+<li>失楽園
+<ul>
+    <li>Let it goを歌いながらエルサが出て行くシーン</li>
+    <li>自分だけの自由を求めるのは罪の始まり、というのも文化的に無い</li>
+    <li>日本だと独立するのは良いこととして受け取られそう。
+    <ul>
+        <li>
+            <object width="425" height="336">
+                <param name="movie" value="http://www.youtube.com/v/QZ1poicuB2s">
+            </param>
+            <param name="wmode" value="transparent">
+            </param>
+            <embed src="http://www.youtube.com/v/QZ1poicuB2s" type="application/x-shockwave-flash" wmode="transparent" width="425" height="336" FlashVars="movie_url=http://d.hatena.ne.jp/video/youtube/QZ1poicuB2s">
+        </embed>
+    </object>
+    <a href="http://d.hatena.ne.jp/video/youtube/QZ1poicuB2s" alt="この動画を含む日記">
+    <img src="http://d.hatena.ne.jp/images/d_entry.gif" alt="D" border="0" style="vertical-align: bottom;" title="この動画を含む日記">
+</a>
+</li>
+<li>日本語吹き替え版だと特に、歌い方とか歌詞とか悲しさとは裏腹の明るい表情というのも相まって、これだけ見ると女性が強く自立するといった違う文脈に感じられる</li>
+</ul>
+</li>
+<li>"No right, no wrong, no rules for me. I’m free!"というのはサタンのセリフとも呼応する
+<ul>
+    <li>感動的だけど、本来そうあってはいけないと暗示している</li>
+</ul>
+</li>
+<li>別に信者じゃなくても「みんな知ってて当たり前」という一本筋が通せるキリスト教文化</li>
+<li>そういう文化じゃないからほんと分からない
+<ul>
+    <li>でもそういうことを超越して単純に見て面白いというのがすごい</li>
+    <li>13番目の弟、とか言われた時にちょっとアガる感じはある
+    <ul>
+        <li>聖書ネタだとどうしてもエヴァで培われた体験が先行してしまう</li>
+        <li>僕らのキリスト教→エヴァで知りました文化</li>
+        <br>
+        </ul>
+    </li>
+</ul>
+</li>
+</ul>
+</li>
+<li>無償の愛
+<ul>
+    <li>使徒ネタ以前に一番の基本の愛の話はエヴァではあんまり理解できてなかった</li>
+    <li>イタリア映画の『ニュー・シネマ・パラダイス』では恋をしたトトに、アルフレードが語るエピソード（創作実話）がある
+    <ul>
+        <li>「王女に恋した兵士が、バルコニーの下で100日間立ち続けたら恋人になってもらう約束で立ち続けるが、99日目にして去ってしまう。それはなぜか？」という話</li>
+        <li>見返りを求めているのは愛ではないと気づいたから</li>
+        <li>アルフレード自身も死んでからトトのためのギフトを残す。死んでいるので当然見返りはない</li>
+        <li>究極的には死ぬことで体現されるもの？</li>
+        <li>キスシーンをカットする象徴的行為で原理を問い直すのもちょっとfrozen的</li>
+        <br>
+        </ul>
+    </li>
+</ul>
+</li>
+<li>まっとうに正しさを定義する時代
+<ul>
+    <li>皆さんのご想像にお任せします、というのではなくテーマに対して映画の中で完全に答えを出している
+    <ul>
+        <li>全世界の人間が見る作品でそういうのをぶつけてくるのが勇気ある</li>
+        <li>時代によっては価値観に反逆してひっくり返したりするのが求められる</li>
+    </ul>
+</li>
+<li>キリスト教圏じゃない（受容せず、否定的な）世界ではどうなるんだろう
+<ul>
+    <li>いくらtrue loveとか言ってもそれはその文化での正しさでしかない</li>
+    <br>
+    </ul>
+</li>
+</ul>
+</li>
+<li>正しさを思い出す
+<ul>
+    <li>悪役が改心する話でも、それは愛を知らなかったということが多かった
+    <ul>
+        <li>でもアナとエルサは最初は知っていた</li>
+    </ul>
+</li>
+<li>聖書的には、子どもや貧しい人、病める者といった弱者が神の国にある者であり、子供時代には愛を知っていた
+<ul>
+    <li>失楽園を通して愛を忘れてしまい、それがアナの自己犠牲により思い出される</li>
+    <li>"Love.... Of course." → 元から知っていたという意味合い</li>
+</ul>
+</li>
+<li>失楽園や神曲と違うのは、アナが探しに来るところ
+<ul>
+    <li>サタンは地獄に堕ちてそのまま</li>
+    <br>
+    </ul>
+</li>
+</ul>
+</li>
+<li>愛を知れば勝利
+<ul>
+    <li>というのが文化的に理解が遠いので、最後の氷解シーンはもうちょっと段階描写が欲しかった</li>
+    <li>アナに対してのことは解決したけど、国が凍ってるのは別問題じゃない？</li>
+    <li>雪の女王だと春を迎えることであっさりと立ち消える
+    <ul>
+        <li>冬は眠っているだけで死ではない</li>
+        <li>Eternalってテーマでもう一曲欲しかった</li>
+        <br>
+        </ul>
+    </li>
+</ul>
+</li>
+</ul>
+<h4>[1:27:33] 制作話</h4>
+<br>
+    <ul>
+        <li>作品自体が制作中止になりそうだった
+        <ul>
+            <li>ジョン・ラセターはじめピクサースタッフも相当入って奇跡が起きて形になったらしい</li>
+            <li>ゲームでもゲームの神様が降りてくるといった話に近い</li>
+            <li>本当にダメな感じだったけど生き返った</li>
+            <li>前述の"Do you want to build a snowman?"がカットされそうだったということからも窺い知れる</li>
+            <li>オラフの歌はカットしても良かったんじゃ？
+            <ul>
+                <li>あれは小さなお友達大喜びだから</li>
+                <br>
+                </ul>
+            </li>
+        </ul>
+    </li>
+    <li>シリアスとコメディ
+    <ul>
+        <li>ちょっと噛み合わせが苦しい気もした</li>
+        <li>基本シリアスなテーマなのでどうしてもそっちに心情が傾いているところでコメディを見るのが辛い</li>
+        <li>でもシリアス一辺倒ではダメで、そういうパートが必要だというのもすごく分かる</li>
+        <li>二面性をテーマにしているところからも必要</li>
+        <li>つまりエルサの心境で見てるとアナの無理解っぷりにイラッとくるというのに集約される
+        <ul>
+            <li>アナが持っている明るさがもっと頼もしく見えたら良かった</li>
+            <br>
+            </ul>
+        </li>
+    </ul>
+</li>
+<li>脚本としてのシュガー・ラッシュの良さを改めて語る
+<ul>
+    <li>マイノリティを描く映画は多いので、悪役であるラルフを主役にするところまではまあ普通</li>
+    <li>そうしたラルフを描いた上で、さらにゲームの不具合、グリッチという存在であるヴァネロペを登場させる</li>
+    <li>いくら悪役として疎まれていても存在しなくなればみんなが困るが、不具合はそもそも存在が許されないものであり、マイノリティとしてのシリアス度がより高い
+    <ul>
+        <li>そういうのって現実の話だと描くのがいろいろ難しい気がする。民族問題とか</li>
+    </ul>
+</li>
+<li>普通に考えれば、不具合なんて無いほうがいいじゃんって思うはず。それを排除しようって言う王様の話もすごくよく分かる。観客をその視点に立たせてくる
+<ul>
+    <li>でもゲームファンだったり、プログラムを組んだ経験のある人なら、制作者の意図したものとは違う挙動をする不具合、バグというものが実は魅力的な要素を生み出すこともあると知っている（大半はダメだけど）</li>
+    <li>現実的な問題意識でもあるし、同時にゲームならではの醍醐味を捉えている。そういうのが描かれていたのがシュガー・ラッシュを非常に評価したいところ</li>
+</ul>
+</li>
+<li>そこと比べると、frozenは上手く捌いているけどテーマとしては普遍的であり、新規性は薄いのかなって感じる</li>
+<br>
+</ul>
+</li>
+<li>他作品とのリンク
+<ul>
+    <li>“For the First Time in Forever”でアナが頬張るチョコレートはシュガー・ラッシュのチョコ
+    <ul>
+        <li>キャンクラの5色チョコみたいなやつ</li>
+        <li>じゃあキャンクラから持ってきたんじゃない？</li>
+    </ul>
+</li>
+<li>実はラプンツェル（ショートヘア）とユージーンも一瞬だが出てくる
+<ul>
+    <li>
+        <a href="http://disney.wikia.com/wiki/Thread:281745">
+        <img width="500" src="http://img1.wikia.nocookie.net/__cb20140201070133/disney/images/2/28/Vlcsnap-2014-02-01-14h34m08s46.png">
+    </a>
+</li>
+<li>ファンの間では何故ラプンツェルたちが居るのかという推測がされていたが、あることにより「裏がとれた」という
+<ul>
+    <li>
+        <a href="http://www.reddit.com/r/IAmA/comments/1xj4n5/hi_reddit_we_made_frozen_ask_us_anything/cfbsbpq" target="_blank">frozen制作者のIAmA（本人だけど質問ある？）</a>でのやり取り
+        <ul>
+            <li>Where were the King and Queen planning to go when they lost their lives out at sea?</li>
+            <li>Jennifer（監督）: A wedding. According to Chris, they didn't die on the boat. They got washed up on a shore in a jungle island. The queen gave birth to a baby boy. They build a treehouse. They get eaten by a leopard...</li>
+        </ul>
+    </li>
+    <li>両親は船に乗ってどこに出かけたのかと聞いたらスタッフがweddingと答えたので、ラプンツェルたちの結婚式へ向かう途中で亡くなったという説が裏付けされた</li>
+    <li>ついでにChris（本作と『ターザン』の共同監督）が言うには「両親は難破では死んでなくてジャングルに漂着して男の子を産んだけど、豹に食べられちゃったの…」とジョークも付け加える文脈で話している</li>
+</ul>
+</li>
+<li>だからラプンツェルたちは両親の死の原因が自分たちの結婚式にあることを知っていて出席していると推測される</li>
+<li>戴冠式の日は死後から3年経っていて、それはラプンツェル公開から本作までの時間と同じであることにも符合する</li>
+</ul>
+</li>
+<li>逆にラプンツェルの作中でも本作の王国Arendelleが素敵なところだと言及している
+<ul>
+    <li>ネタがあらかじめ仕込まれてる</li>
+</ul>
+</li>
+<li>地理的にはデンマークと公言されてるけど、最初の歌やサウナはフィンランド的</li>
+<br>
+</ul>
+</li>
+<li>『Big Hero 6』
+<ul>
+    <li>ディズニー・アニメの次回作</li>
+    <li>ディズニーがマーベルを買収したことでマーベルコミックスを原作としたアニメーション作品</li>
+    <li>元々あまり筋の通ったストーリーが無いので、キャラクターの設定からオリジナルストーリーを作り上げていってるらしい</li>
+    <li>サンフランシスコと東京をミックスしたSan Fransokyo（サン・フランソーキョー）を舞台としている</li>
+    <li>ラプンツェル、シュガー・ラッシュ、アナと雪の女王といい流れなので期待</li>
+    <br>
+    </ul>
+</li>
+</ul>
+<h4>[1:42:00] 表現技術</h4>
+<br>
+    <ul>
+        <li>やっぱミュージカルすごいね
+        <ul>
+            <li>ブロードウェイにも話が進んでるらしい</li>
+            <li>音楽の感じは現代的
+            <ul>
+                <li>ハイスクール・ミュージカルみたいな</li>
+                <li>あれ、観たこと無い？</li>
+                <li>シリーズ3作目で劇場版となった『ハイスクール・ミュージカル/ザ・ムービー』だけ観た</li>
+            </ul>
+        </li>
+        <li>クラシックディズニーファンからは「歌謡曲っぽすぎる」という批判もあるらしい
+        <ul>
+            <li>音楽もリノベーションしてイダテン的には好感</li>
+            <br>
+            </ul>
+        </li>
+    </ul>
+</li>
+<li>映像表現
+<ul>
+    <li>雪の表現がすごいって言われてたけど、もはやどこがどうすごいとか言及できない</li>
+    <li>地味だけどライティング技術がすごい
+    <ul>
+        <li>止め絵で見るとよく分かるけど、背景に対してキャラクターが浮かない</li>
+        <li>キャラクターに使うマテリアルや表現は背景のものとは全く違うから、あんなに馴染んで見えるというのは相当すごい</li>
+    </ul>
+</li>
+<li>自然に見せる技術が向上して、自然に見えるからどこがすごいとか言えない</li>
+<li>雪の物理シミュレーション
+<ul>
+    <li>
+        <object width="425" height="336">
+            <param name="movie" value="http://www.youtube.com/v/seUJsmugI78">
+        </param>
+        <param name="wmode" value="transparent">
+        </param>
+        <embed src="http://www.youtube.com/v/seUJsmugI78" type="application/x-shockwave-flash" wmode="transparent" width="425" height="336" FlashVars="movie_url=http://d.hatena.ne.jp/video/youtube/seUJsmugI78">
+    </embed>
+</object>
+<a href="http://d.hatena.ne.jp/video/youtube/seUJsmugI78" alt="この動画を含む日記">
+<img src="http://d.hatena.ne.jp/images/d_entry.gif" alt="D" border="0" style="vertical-align: bottom;" title="この動画を含む日記">
+</a>
+</li>
+<li>SIGGRAPHでやってた技術デモを見るとなるほどすごいって分かりやすい</li>
+<li>でもそうしたテクノロジーがそのまま出てくる初期の3Dゲームのようなはいはい物理物理というスタンスで見える感じは全く無い</li>
+<li>自然すぎて分からない</li>
+</ul>
+</li>
+<li>自然だけどアニメのテイスト
+<ul>
+    <li>実写じゃないし、目もでかい</li>
+    <li>洋服もアニメの動き</li>
+    <li>もう自然とか言わないよねああいうの</li>
+</ul>
+</li>
+<li>もう何が分からないのかも分からない</li>
+<li>でもそこまでお金と人出と時間をかけて作る価値があるもんなんだよなって思いながら観てた
+<ul>
+    <li>そこで妥協しちゃうと、いくら歌とお話で盛り上げてもそこまで気持ちが高まらないんじゃないかなと</li>
+</ul>
+</li>
+<li>ゲームのピコキャスとしてはやはり物理シミュレーションとかの切り口で語りたいけど、でももはやそういうことじゃない
+<ul>
+    <li>「ゲームは○や□だけでも面白くなきゃダメ」って話はもう無いよねって話になる</li>
+    <li>老害批判？</li>
+    <br>
+    </ul>
+</li>
+</ul>
+</li>
+<li>普遍的なテーマと信念のテーマ
+<ul>
+    <li>Frozenなどはクラシカルな万人が抱えているようなテーマにまっすぐ立ち向かう感じ</li>
+    <li>対して日本の作品だと万人ではないテーマをどんどん先鋭化させていってる感じ
+    <ul>
+        <li>やっぱり宗教くらい普遍的な一本筋通った価値観が薄いから、観ているファンと制作者の間でどんどん狭く鋭くなっていく印象</li>
+    </ul>
+</li>
+<li>文化的な共通認識にこたえるのもすごいけど、そこを外すのが良いとされる側面もある
+<ul>
+    <li>ゲームだとそれが顕著
+    <ul>
+        <li>戦争ゲームを作りまくってたり</li>
+        <li>ルール的な発明、新規性がとても重視される</li>
+        <li>なのでジャンルが先鋭化していく</li>
+    </ul>
+</li>
+</ul>
+</li>
+<li>これは絶対いいものだ、という価値観
+<ul>
+    <li>マリオだったらその信念に迫り続けていくのが任天堂の役目</li>
+    <li>そうした価値観を壊してめちゃくちゃ速く移動できるようにしてソニックが作られるとか</li>
+</ul>
+</li>
+<li>信念とはいえ、○や□で表せるはずという姿勢だときつい
+<ul>
+    <li>『アンチャーテッド』を記号だけの表示で遊んだらクソゲー感がすごかった</li>
+    <li>でも製品になったら手に汗握っちゃう出来栄えに</li>
+</ul>
+</li>
+<li>結論としてやっぱ映像だよ
+<ul>
+    <li>音もね</li>
+    <li>ミュージカルってものは映像と音響とストーリーとキャラクターの魅力が全部ひとつになってるからすごく強い</li>
+    <br>
+    </ul>
+</li>
+</ul>
+</li>
+<li>音響といえばヒッチコックの『サイコ』
+<ul>
+    <li>
+        <object width="425" height="336">
+            <param name="movie" value="http://www.youtube.com/v/0WtDmbr9xyY">
+        </param>
+        <param name="wmode" value="transparent">
+        </param>
+        <embed src="http://www.youtube.com/v/0WtDmbr9xyY" type="application/x-shockwave-flash" wmode="transparent" width="425" height="336" FlashVars="movie_url=http://d.hatena.ne.jp/video/youtube/0WtDmbr9xyY">
+    </embed>
+</object>
+<a href="http://d.hatena.ne.jp/video/youtube/0WtDmbr9xyY" alt="この動画を含む日記">
+<img src="http://d.hatena.ne.jp/images/d_entry.gif" alt="D" border="0" style="vertical-align: bottom;" title="この動画を含む日記">
+</a>
+</li>
+<li>映画館でやってたので初めて観た</li>
+<li>有名なシャワーシーンのキン！キン！キン！ってところがビリビリと体にすごく響いてきて新鮮だった
+<ul>
+    <li>映像よりも物理的な音響によって刺激が与えられる</li>
+    <li>YouTubeやビデオで見るのと全然違う体験</li>
+</ul>
+</li>
+<li>そういうの思いつくのがすごいね
+<ul>
+    <li>思いつくっていうか、悪ノリの域じゃない？ 映画館ならここまでやっても許されるっていうか</li>
+</ul>
+</li>
+<li>ホラーだとおどろおどろしい不気味な怖い音でMP削るって感じだけど、サイコはHPに直接的にダメージを与える系なんだなと思い知った</li>
+<br>
+</ul>
+</li>
+<li>ゲームも映画館くらいのところでプレイしたらまた違うのかもね
+<ul>
+    <li>でもゲームでそこまで音に気をつけて作れる会社ってそんなに無い
+    <ul>
+        <li>みんなプレイ環境違うし</li>
+        <li>ドルビー対応では作ってる</li>
+    </ul>
+</li>
+<li>本気で調整までするのが難しい
+<ul>
+    <li>後ろからの音や壁に遮られた音を環境に忠実に鳴らしてもそうは聞こえない</li>
+</ul>
+</li>
+<li>『Dead Space』は初めて音を消したくなった
+<ul>
+    <li>怖い音が鳴ると怖い</li>
+    <li>プレイヤーキャラが苦しくなった時の呼吸音とかすごくイヤ</li>
+    <li>死体踏みのときの気合い入った声</li>
+</ul>
+</li>
+<li>『バイオハザード』を初めてやったとき、ヘッドホンしてプレイするのがオススメみたいなことが書いてあった
+<ul>
+    <li>それでプレイしたら超怖くってほんとに辞めたくなった</li>
+    <li>あーもう無理無理ってセーブして封印</li>
+    <li>基本無音の洋館で、いきなり犬がガシャーン！</li>
+    <br>
+    </ul>
+</li>
+</ul>
+</li>
+</ul>
+<h4>[1:58:53] 日本語吹き替え版</h4>
+<br>
+    <ul>
+        <li>吹き替え版観てもう一度ピコキャスかな
+        <ul>
+            <li>吹き替えは、うちのカミさんが憤って憤ってしょうがない
+            <ul>
+                <li>声はすごく素晴らしいの。さすが聖子ちゃん！
+                <ul>
+                    <li>娘ね。（アナ役：神田沙也加）</li>
+                </ul>
+            </li>
+            <li>歌詞がさぁ
+            <ul>
+                <li>はてブに上がってた記事によると、訳した人が褒められてて自信も持ってた</li>
+                <li>原作者と密なやり取りして意図を聞いてどんなことを伝えたい曲なのか確認して、それから訳したとのこと</li>
+                <li>なのに、うちではボロクソに言われてる</li>
+                <br>
+                </ul>
+            </li>
+        </ul>
+    </li>
+</ul>
+</li>
+<li>"For The First Time in Forever"
+<ul>
+    <li>
+        <div class="twitter-detail twitter-detail-left">
+            <div class="twitter-detail-user">
+                <a class="twitter-user-screen-name" href="http://twitter.com/asa10megumi">
+                <img src="http://pbs.twimg.com/profile_images/2667167870/4efe3b63e30159e32683c9e1b4bdfedf_normal.jpeg" alt="asa10megumi" height="48" width="48" onerror="this.parentNode.replaceChild(document.createTextNode(this.getAttribute('alt')), this);" >
+            </a>
+        </div>
+        <div class="twitter-detail-tweet">
+            <p class="twitter-detail-text">
+                      アナと雪の女王の「生まれて初めて」 、まるで別歌のように歌詞が変わっててものすごく残念…。特にエルサとアナの同じ言葉なのに全く意味が反対にになってて素晴らしいと思った「It's only for today」と「It's agony to wait」、なんで変えちゃったんだろう…
+                    </p>
+                <p class="twitter-detail-info">
+                    <a href="http://twitter.com/asa10megumi/status/444728273910509568" class="twitter-detail-info-permalink">
+                    <span class="twitter-detail-info-date">2014-03-15</span>
+                    <span class="twitter-detail-info-time">15:54:17</span>
+                </a>
+                <span class="twitter-detail-info-source">via web</span>
+            </p>
+        </div>
+    </div>
+    <ul>
+        <li>同じセリフだけど二人の間で意味合いが変わる
+        <ul>
+            <li>"It's only for today" → だけど今日だけは／ようやく今日だけは</li>
+            <li>"It's agony to wait" → 待つのも辛い／待ちきれない</li>
+        </ul>
+    </li>
+    <li>歌の構造としては一番いいところなのに</li>
+</ul>
+</li>
+<li>
+    <div class="twitter-detail twitter-detail-left">
+        <div class="twitter-detail-user">
+            <a class="twitter-user-screen-name" href="http://twitter.com/asa10megumi">
+            <img src="http://pbs.twimg.com/profile_images/2667167870/4efe3b63e30159e32683c9e1b4bdfedf_normal.jpeg" alt="asa10megumi" height="48" width="48" onerror="this.parentNode.replaceChild(document.createTextNode(this.getAttribute('alt')), this);" >
+        </a>
+    </div>
+    <div class="twitter-detail-tweet">
+        <p class="twitter-detail-text">
+                  アナと雪の女王「生まれて初めて」、訳詞の違いでエルサの性格も変わってしまったように感じられたのも残念だった。エルサが歌でも話でも何度も繰り返す「Conceal, don't feel」という戒めの言葉は、エルサの中でとても重要であり呪いでもある筈なのに何故全面カットなんだろう…
+                </p>
+            <p class="twitter-detail-info">
+                <a href="http://twitter.com/asa10megumi/status/444730870851567617" class="twitter-detail-info-permalink">
+                <span class="twitter-detail-info-date">2014-03-15</span>
+                <span class="twitter-detail-info-time">16:04:36</span>
+            </a>
+            <span class="twitter-detail-info-source">via web</span>
+        </p>
+    </div>
+</div>
+<ul>
+    <li>"Conceal, don't feel"は歌だけでなく映画全体のキーフレーズになっているので、そのへん統一的な翻訳のディレクションが足りなかったんじゃないか</li>
+    <br>
+    </ul>
+</li>
+</ul>
+</li>
+<li>"Let it go"
+<ul>
+    <li>日本語だと「ありのままの」になってて自己肯定に聞こえてしまう。英語だと諦めの境地のニュアンス</li>
+    <li>「自分を好きになって」「自分を信じて」
+    <ul>
+        <li>誰よりも自分を信じられないエルサの心境とは食い違う</li>
+    </ul>
+</li>
+<li>"The cold never bothered me anyway" → 「少しも寒くないわ」
+<ul>
+    <li>寒くないということを言いたいわけじゃない</li>
+    <li>寒さが自分とともにあり、それがもう感じられなくなってしまった</li>
+</ul>
+</li>
+<li>ビートルズの"Let it be"とか、Let という言葉自体が日本語には訳しづらい感じがする
+<ul>
+    <li>Oasis "Let There Be Love"</li>
+    <li>Eric Clapton "Let It Grow"</li>
+</ul>
+</li>
+<li>難しいのは分かるし俺に訳せって言われたら困るけど…
+<ul>
+    <li>じゃあ代案出せよって炎上したら反論できないけど、でも違うなあって感じちゃう
+    <ul>
+        <li>それくらい良かった、思い入れが強いということ</li>
+        <br>
+        </ul>
+    </li>
+</ul>
+</li>
+</ul>
+</li>
+<li>ディズニーおじさん
+<ul>
+    <li>あとは咲間岩丸さんの感想待ちだね
+    <ul>
+        <li>ずっと売り上げのことしか言ってないゲハ脳っぷり</li>
+    </ul>
+</li>
+<li>このときのツイッター最新は「ビッグヒーロー6のハードル高過ぎてどうすんだろ‥」「シュガー・ラッシュも大丈夫だったし大丈夫か。」
+<ul>
+    <li>…大丈夫？</li>
+    <br>
+    </ul>
+</li>
+</ul>
+</li>
+</ul>
+<h4>[2:13:40] 申し訳程度にゲームの話題</h4>
+<br>
+    <ul>
+        <li>Far Cry 3やった
+        <ul>
+            <li>面白いね</li>
+            <li>まあ普通におもしろい</li>
+            <br>
+            </ul>
+        </li>
+        <li>The Last of Us
+        <ul>
+            <li>DLC『Left Behind』やった
+            <ul>
+                <li>すごい良かった</li>
+                <li>動画でいいから見て</li>
+            </ul>
+        </li>
+        <li>1時間半もあるメイキング映像日本語版が出てた
+        <ul>
+            <li>
+                <object width="425" height="336">
+                    <param name="movie" value="http://www.youtube.com/v/JddXx2ctwZA">
+                </param>
+                <param name="wmode" value="transparent">
+                </param>
+                <embed src="http://www.youtube.com/v/JddXx2ctwZA" type="application/x-shockwave-flash" wmode="transparent" width="425" height="336" FlashVars="movie_url=http://d.hatena.ne.jp/video/youtube/JddXx2ctwZA">
+            </embed>
+        </object>
+        <a href="http://d.hatena.ne.jp/video/youtube/JddXx2ctwZA" alt="この動画を含む日記">
+        <img src="http://d.hatena.ne.jp/images/d_entry.gif" alt="D" border="0" style="vertical-align: bottom;" title="この動画を含む日記">
+    </a>
+</li>
+<li>DLCの英語版メイキングはもう出てる</li>
+<li>まだざっくりとしか観てないけど、モーキャプの役者がすごい感情込めた演技で、あ、こんなに本気でやってるんだって素朴に思った
+<ul>
+    <li>セットもろくに無いところで演劇みたいに演技するのってよっぽど役を理解しないとできないだろうなって</li>
+    <li>まあ普通の映画もああやって作ってるんだろうけど</li>
+    <li>プロってすごい</li>
+    <li>『ライフ・オブ・パイ』のメイキングだと水もCGだしトラもCG</li>
+    <br>
+    </ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>タイタンをフォールしてないけど、ダークはソウルした
+<ul>
+    <li>は？</li>
+    <li>（『タイタンフォール』は届いてないけど『ダークソウル2』は届いた）</li>
+    <br>
+    </ul>
+</li>
+<li>World of Tanks
+<ul>
+    <li>Xbox 360にも来てた</li>
+    <li>あれはぁ〜〜
+    <ul>
+        <li>なにその蔑んだ目は</li>
+        <li>動画で見たけど、いやもう全然別ゲーでしょ</li>
+    </ul>
+</li>
+<li>プレイにとても重要な情報であるマップがGTAみたいなミニマップになってて、全体マップはいちいち開かないといけない
+<ul>
+    <li>まじありえない</li>
+</ul>
+</li>
+<li>でもサーバー違うでしょ
+<ul>
+    <li>もちろん。PC版と同じサーバーで対戦したら一瞬で撃ち殺されるはず</li>
+</ul>
+</li>
+<li>PC版だとマップ見て自分が見えてる範囲と相手から見えてる範囲を考えて位置取りしていくという繊細な戦術が要求される
+<ul>
+    <li>Xbox版はそこは割り切ってマップ情報を減らすことで、アーケードライクに出たとこ勝負という感じの調整かなと思う</li>
+</ul>
+</li>
+<li>RTSとかああいうゲームってメインの画面よりマップだけ見てればいいというくらい</li>
+<br>
+</ul>
+</li>
+<li>Alienware
+<ul>
+    <li>Xbox Oneも買ってないからタイタンフォール360版でいいや</li>
+    <li>光るPCとか無いし
+    <ul>
+        <li>自作すりゃ光らないPC組めるでしょ</li>
+    </ul>
+</li>
+<li>なんでみんな（TL界隈）Alienwareの話ばっかりしてるの？
+<ul>
+    <li>一人が買ったからみんなに勧めてる</li>
+    <li>そうだったんだ</li>
+</ul>
+</li>
+<li>値段も最近はそこまで高くないし、ネタにしては昔ほどキチガイ認定されない
+<ul>
+    <li>まあケースが無駄に光るってところくらい</li>
+    <li>APIがあってアプリ側で制御してちゃんと色とか変えられるらしい
+    <ul>
+        <li>ほんとかなあ。騙されてるんじゃないかな</li>
+        <li>
+            <object width="425" height="336">
+                <param name="movie" value="http://www.youtube.com/v/UYbwfJOmuRQ">
+            </param>
+            <param name="wmode" value="transparent">
+            </param>
+            <embed src="http://www.youtube.com/v/UYbwfJOmuRQ" type="application/x-shockwave-flash" wmode="transparent" width="425" height="336" FlashVars="movie_url=http://d.hatena.ne.jp/video/youtube/UYbwfJOmuRQ">
+        </embed>
+    </object>
+    <a href="http://d.hatena.ne.jp/video/youtube/UYbwfJOmuRQ" alt="この動画を含む日記">
+    <img src="http://d.hatena.ne.jp/images/d_entry.gif" alt="D" border="0" style="vertical-align: bottom;" title="この動画を含む日記">
+</a>
+</li>
+<li>
+    <div class="twitter-detail twitter-detail-left">
+        <div class="twitter-detail-user">
+            <a class="twitter-user-screen-name" href="http://twitter.com/kiyosick">
+            <img src="http://pbs.twimg.com/profile_images/3255284044/57a53af9cd31599f2e472bbe34e4dc90_normal.jpeg" alt="kiyosick" height="48" width="48" onerror="this.parentNode.replaceChild(document.createTextNode(this.getAttribute('alt')), this);" >
+        </a>
+    </div>
+    <div class="twitter-detail-tweet">
+        <p class="twitter-detail-text">
+                  @<a class="twitter-user-screen-name" href="http://twitter.com/miyaoka" target="_top">miyaoka</a> @<a class="twitter-user-screen-name" href="http://twitter.com/IDA_10" target="_top">IDA_10</a> @<a class="twitter-user-screen-name" href="http://twitter.com/pico2cast" target="_top">pico2cast</a> API 経由で Alienware のキーボードを光らせる iTunes プラグイン。Buy or Die！！！！！ <a class="twitter-tweet-url" href="https://t.co/LuCRjZnwYc" target="_top">
+            <span>URL</span>
+        </a>
+    </p>
+    <p class="twitter-detail-info">
+        <a href="http://twitter.com/kiyosick/status/446221966656012288" class="twitter-detail-info-permalink">
+        <span class="twitter-detail-info-date">2014-03-19</span>
+        <span class="twitter-detail-info-time">18:49:41</span>
+    </a>
+    <span class="twitter-detail-info-source">via <a href="http://sites.google.com/site/yorufukurou/" rel="nofollow">YoruFukurou</a>
+</span> to @<a href="http://twitter.com/miyaoka/"  class="twitter-user-screen-name">miyaoka</a>
+</p>
+</div>
+</div>
+</li>
+<br>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>詐欺師、偽善者
+<ul>
+    <li>そういやFrozenでクリストフがサウナ店主を詐欺師呼ばわりしてたけど、イダテンさんが初めて覚えた英単語って詐欺師とか言ってなかったっけ？</li>
+    <li>中学生なのに偽善者 hypocrite（ヒポクリット）って単語を覚えてたって話だよ</li>
+    <li>作中の詐欺師は crook でした</li>
+    <br>
+    </ul>
+</li>
+</ul>
+<h4>[2:23:50] 次回</h4>
+<br>
+    <ul>
+        <li>よかったよかった
+        <ul>
+            <li>3ヶ月のビハインドですっかり熱が冷めてるかと思ったけど、そんなことなかった</li>
+            <li>それぐらい心に残って、ずっと考えて、話題にしてるってすごい</li>
+            <li>近年そんなに無いよ。『耳をすませば』くらいだよ
+            <ul>
+                <li>じゃあ次回は耳すまについて語ろうか！</li>
+                <li>あるいはディズニーおじさんこと咲間さんを交えてFrozenもう一回やるか</li>
+                <br>
+                </ul>
+            </li>
+        </ul>
+    </li>
+</ul>
+<h4>追記</h4>
+<br>
+    <p>今日マチ子さんの描くFrozenが面白かった<br>
+    <br>
+        <blockquote lang="ja" class="twitter-tweet">
+            <p>アナと雪の女王（FROZEN） 昨日は彼氏 今日はべつの男友達と雪のかたまりをつれてきた <a href="http://t.co/VkPZUHglfq">pic.twitter.com/VkPZUHglfq</a>
+        </p>&#8212; 今日マチ子 kyo machiko (@machikomemo) <a href="https://twitter.com/machikomemo/statuses/445521483972886529">2014, 3月 17</a>
+    </blockquote>
+    <br>
+        <blockquote lang="ja" class="twitter-tweet">
+            <p>アナと雪の女王（FROZEN）ふたりで学校にいくところ <a href="http://t.co/SMnM8R6qNC">pic.twitter.com/SMnM8R6qNC</a>
+        </p>&#8212; 今日マチ子 kyo machiko (@machikomemo) <a href="https://twitter.com/machikomemo/statuses/444528964350906368">2014, 3月 14</a>
+    </blockquote>
+    <br>
+        <br>
+            <hr>
+            </p>
+            <ul>
+                <li>使用曲
+                <ul>
+                    <li>
+                        <a href="http://moldiloxchips.bandcamp.com/album/the-drifting-classroom" target="_blank">“The Drifting Classroom” (by Moldilox)</a>
+                    </li>
+                </ul>
+            </li>
+        </ul>
+    </div>
+    <img src="http://feeds.feedburner.com/~r/ida10_miyaoka/~4/OO34FTQphJo" height="1" width="1"/>]]>
+</content:encoded>
+<description>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） ※作品のネタバレ前提で話します。未見の方はぜひ鑑賞してからご覧ください。観た方は 公式サイトで公開されている脚本 を読みながら振り返るといいと思います。 『Frozen（邦題：アナと雪の女王）』がようやく日</description>
+<media:content url="http://feedproxy.google.com/~r/ida10_miyaoka/~5/JuThC8WrIaM/20140316.mp3" fileSize="70278293" type="audio/mpeg"/>
+<itunes:explicit>no</itunes:explicit>
+<itunes:subtitle>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） ※作品のネタバレ前提で話します。未見の方はぜひ鑑賞してからご覧ください。観た方は 公式サイトで公開されている脚本 を読みながら振り返るといいと思います。 『Frozen（邦題：アナと雪の女王）』がようやく日</itunes:subtitle>
+<itunes:author>iandme</itunes:author>
+<itunes:summary>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） ※作品のネタバレ前提で話します。未見の方はぜひ鑑賞してからご覧ください。観た方は 公式サイトで公開されている脚本 を読みながら振り返るといいと思います。 『Frozen（邦題：アナと雪の女王）』がようやく日</itunes:summary>
+<itunes:keywords>ida10,miyaoka,ピコピコキャスト,picopicocast,pico2cast,pico</itunes:keywords>
+<feedburner:origLink>http://d.hatena.ne.jp/iandme/20140316/1394966940</feedburner:origLink>
+<enclosure url="http://feedproxy.google.com/~r/ida10_miyaoka/~5/JuThC8WrIaM/20140316.mp3" length="70278293" type="audio/mpeg"/>
+<feedburner:origEnclosureLink>http://www.t-p.jp/podcast/20140316.mp3</feedburner:origEnclosureLink>
+</item>
+<item>
+    <title>第38回 ゲームモゴモゴからたかなべさんをお迎えして、クイズdeニャンニャンを語る節分回</title>
+    <link>http://feedproxy.google.com/~r/ida10_miyaoka/~3/hbSr5ZkLfvQ/1391481833</link>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">iandme</dc:creator>
+    <pubDate>Mon, 03 Feb 2014 18:43:53 PST</pubDate>
+    <guid isPermaLink="false">http://d.hatena.ne.jp/iandme/20140203/1391481833</guid>
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">
+</content:encoded>
+<description>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） たかなべさん（ゲームモゴモゴ主宰） 非常勤メンバー 今回の経緯 ゲーモゴ第26回でかわのさんお休みの代わりに僕と、嫁さんと、息子と、ゲームと。のヨースケさんをゲストに迎えてた じゃあピコキャスでも募集しよ</description>
+<media:content url="http://feedproxy.google.com/~r/ida10_miyaoka/~5/T0ZRuwID3-o/20140203.mp3" fileSize="60874420" type="audio/mpeg"/>
+<itunes:explicit>no</itunes:explicit>
+<itunes:subtitle>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） たかなべさん（ゲームモゴモゴ主宰） 非常勤メンバー 今回の経緯 ゲーモゴ第26回でかわのさんお休みの代わりに僕と、嫁さんと、息子と、ゲームと。のヨースケさんをゲストに迎えてた じゃあピコキャスでも募集しよ</itunes:subtitle>
+<itunes:author>iandme</itunes:author>
+<itunes:summary>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） たかなべさん（ゲームモゴモゴ主宰） 非常勤メンバー 今回の経緯 ゲーモゴ第26回でかわのさんお休みの代わりに僕と、嫁さんと、息子と、ゲームと。のヨースケさんをゲストに迎えてた じゃあピコキャスでも募集しよ</itunes:summary>
+<itunes:keywords>ida10,miyaoka,ピコピコキャスト,picopicocast,pico2cast,pico</itunes:keywords>
+<feedburner:origLink>http://d.hatena.ne.jp/iandme/20140203/1391481833</feedburner:origLink>
+<enclosure url="http://feedproxy.google.com/~r/ida10_miyaoka/~5/T0ZRuwID3-o/20140203.mp3" length="60874420" type="audio/mpeg"/>
+<feedburner:origEnclosureLink>http://www.t-p.jp/podcast/20140203.mp3</feedburner:origEnclosureLink>
+</item>
+<item>
+    <title>第37回 年末スペシャル。ステルス強盗ゲームMonacoの話</title>
+    <link>http://feedproxy.google.com/~r/ida10_miyaoka/~3/cF-FftwIY6k/1391437187</link>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">iandme</dc:creator>
+    <pubDate>Mon, 03 Feb 2014 06:19:47 PST</pubDate>
+    <guid isPermaLink="false">http://d.hatena.ne.jp/iandme/20131230/1391437187</guid>
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">
+</content:encoded>
+<description>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</description>
+<media:content url="http://feedproxy.google.com/~r/ida10_miyaoka/~5/-NZYB47z71w/20131230.mp3" fileSize="47012176" type="audio/mpeg"/>
+<itunes:explicit>no</itunes:explicit>
+<itunes:subtitle>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</itunes:subtitle>
+<itunes:author>iandme</itunes:author>
+<itunes:summary>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</itunes:summary>
+<itunes:keywords>ida10,miyaoka,ピコピコキャスト,picopicocast,pico2cast,pico</itunes:keywords>
+<feedburner:origLink>http://d.hatena.ne.jp/iandme/20131230/1391437187</feedburner:origLink>
+<enclosure url="http://feedproxy.google.com/~r/ida10_miyaoka/~5/-NZYB47z71w/20131230.mp3" length="47012176" type="audio/mpeg"/>
+<feedburner:origEnclosureLink>http://www.t-p.jp/podcast/20131230.mp3</feedburner:origEnclosureLink>
+</item>
+<item>
+    <title>第37回 年末スペシャル。ステルス強盗ゲームMonacoの話</title>
+    <link>http://feedproxy.google.com/~r/ida10_miyaoka/~3/cF-FftwIY6k/1391437187</link>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">iandme</dc:creator>
+    <pubDate>Mon, 03 Feb 2014 06:19:47 PST</pubDate>
+    <guid isPermaLink="false">http://d.hatena.ne.jp/iandme/20131230/1391437187</guid>
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">
+</content:encoded>
+<description>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</description>
+<media:content url="http://feedproxy.google.com/~r/ida10_miyaoka/~5/-NZYB47z71w/20131208-02.mp3" fileSize="47012176" type="audio/mpeg"/>
+<itunes:explicit>no</itunes:explicit>
+<itunes:subtitle>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</itunes:subtitle>
+<itunes:author>iandme</itunes:author>
+<itunes:summary>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</itunes:summary>
+<itunes:keywords>ida10,miyaoka,ピコピコキャスト,picopicocast,pico2cast,pico</itunes:keywords>
+<feedburner:origLink>http://d.hatena.ne.jp/iandme/20131230/1391437187</feedburner:origLink>
+<enclosure url="http://feedproxy.google.com/~r/ida10_miyaoka/~5/-NZYB47z71w/20131208-02.mp3" length="47012176" type="audio/mpeg"/>
+<feedburner:origEnclosureLink>http://www.t-p.jp/podcast/20131208-02.mp3</feedburner:origEnclosureLink>
+</item>
+
+<item>
+    <title>第37回 年末スペシャル。ステルス強盗ゲームMonacoの話</title>
+    <link>http://feedproxy.google.com/~r/ida10_miyaoka/~3/cF-FftwIY6k/1391437187</link>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">iandme</dc:creator>
+    <pubDate>Mon, 03 Feb 2014 06:19:47 PST</pubDate>
+    <guid isPermaLink="false">http://d.hatena.ne.jp/iandme/20131230/1391437187</guid>
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">
+</content:encoded>
+<description>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</description>
+<media:content url="http://feedproxy.google.com/~r/ida10_miyaoka/~5/-NZYB47z71w/20131208-01.mp3" fileSize="47012176" type="audio/mpeg"/>
+<itunes:explicit>no</itunes:explicit>
+<itunes:subtitle>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</itunes:subtitle>
+<itunes:author>iandme</itunes:author>
+<itunes:summary>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</itunes:summary>
+<itunes:keywords>ida10,miyaoka,ピコピコキャスト,picopicocast,pico2cast,pico</itunes:keywords>
+<feedburner:origLink>http://d.hatena.ne.jp/iandme/20131230/1391437187</feedburner:origLink>
+<enclosure url="http://feedproxy.google.com/~r/ida10_miyaoka/~5/-NZYB47z71w/20131208-01.mp3" length="47012176" type="audio/mpeg"/>
+<feedburner:origEnclosureLink>http://www.t-p.jp/podcast/20131208-01.mp3</feedburner:origEnclosureLink>
+</item>
+<item>
+    <title>第37回 年末スペシャル。ステルス強盗ゲームMonacoの話</title>
+    <link>http://feedproxy.google.com/~r/ida10_miyaoka/~3/cF-FftwIY6k/1391437187</link>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">iandme</dc:creator>
+    <pubDate>Mon, 03 Feb 2014 06:19:47 PST</pubDate>
+    <guid isPermaLink="false">http://d.hatena.ne.jp/iandme/20131230/1391437187</guid>
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">
+</content:encoded>
+<description>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</description>
+<media:content url="http://feedproxy.google.com/~r/ida10_miyaoka/~5/-NZYB47z71w/20131014.mp3" fileSize="47012176" type="audio/mpeg"/>
+<itunes:explicit>no</itunes:explicit>
+<itunes:subtitle>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</itunes:subtitle>
+<itunes:author>iandme</itunes:author>
+<itunes:summary>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</itunes:summary>
+<itunes:keywords>ida10,miyaoka,ピコピコキャスト,picopicocast,pico2cast,pico</itunes:keywords>
+<feedburner:origLink>http://d.hatena.ne.jp/iandme/20131230/1391437187</feedburner:origLink>
+<enclosure url="http://feedproxy.google.com/~r/ida10_miyaoka/~5/-NZYB47z71w/20131014.mp3" length="47012176" type="audio/mpeg"/>
+<feedburner:origEnclosureLink>http://www.t-p.jp/podcast/20131014.mp3</feedburner:origEnclosureLink>
+</item>
+<item>
+    <title>第37回 年末スペシャル。ステルス強盗ゲームMonacoの話</title>
+    <link>http://feedproxy.google.com/~r/ida10_miyaoka/~3/cF-FftwIY6k/1391437187</link>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">iandme</dc:creator>
+    <pubDate>Mon, 03 Feb 2014 06:19:47 PST</pubDate>
+    <guid isPermaLink="false">http://d.hatena.ne.jp/iandme/20131230/1391437187</guid>
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">
+</content:encoded>
+<description>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</description>
+<media:content url="http://feedproxy.google.com/~r/ida10_miyaoka/~5/-NZYB47z71w/20131007.mp3" fileSize="47012176" type="audio/mpeg"/>
+<itunes:explicit>no</itunes:explicit>
+<itunes:subtitle>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</itunes:subtitle>
+<itunes:author>iandme</itunes:author>
+<itunes:summary>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</itunes:summary>
+<itunes:keywords>ida10,miyaoka,ピコピコキャスト,picopicocast,pico2cast,pico</itunes:keywords>
+<feedburner:origLink>http://d.hatena.ne.jp/iandme/20131230/1391437187</feedburner:origLink>
+<enclosure url="http://feedproxy.google.com/~r/ida10_miyaoka/~5/-NZYB47z71w/20131007.mp3" length="47012176" type="audio/mpeg"/>
+<feedburner:origEnclosureLink>http://www.t-p.jp/podcast/20131007.mp3</feedburner:origEnclosureLink>
+</item>
+<item>
+    <title>第37回 年末スペシャル。ステルス強盗ゲームMonacoの話</title>
+    <link>http://feedproxy.google.com/~r/ida10_miyaoka/~3/cF-FftwIY6k/1391437187</link>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">iandme</dc:creator>
+    <pubDate>Mon, 03 Feb 2014 06:19:47 PST</pubDate>
+    <guid isPermaLink="false">http://d.hatena.ne.jp/iandme/20131230/1391437187</guid>
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">
+</content:encoded>
+<description>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</description>
+<media:content url="http://feedproxy.google.com/~r/ida10_miyaoka/~5/-NZYB47z71w/20130817-02.mp3" fileSize="47012176" type="audio/mpeg"/>
+<itunes:explicit>no</itunes:explicit>
+<itunes:subtitle>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</itunes:subtitle>
+<itunes:author>iandme</itunes:author>
+<itunes:summary>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</itunes:summary>
+<itunes:keywords>ida10,miyaoka,ピコピコキャスト,picopicocast,pico2cast,pico</itunes:keywords>
+<feedburner:origLink>http://d.hatena.ne.jp/iandme/20131230/1391437187</feedburner:origLink>
+<enclosure url="http://feedproxy.google.com/~r/ida10_miyaoka/~5/-NZYB47z71w/20130817-02.mp3" length="47012176" type="audio/mpeg"/>
+<feedburner:origEnclosureLink>http://www.t-p.jp/podcast/20130817-02.mp3</feedburner:origEnclosureLink>
+</item>
+<item>
+    <title>第37回 年末スペシャル。ステルス強盗ゲームMonacoの話</title>
+    <link>http://feedproxy.google.com/~r/ida10_miyaoka/~3/cF-FftwIY6k/1391437187</link>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">iandme</dc:creator>
+    <pubDate>Mon, 03 Feb 2014 06:19:47 PST</pubDate>
+    <guid isPermaLink="false">http://d.hatena.ne.jp/iandme/20131230/1391437187</guid>
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">
+</content:encoded>
+<description>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</description>
+<media:content url="http://feedproxy.google.com/~r/ida10_miyaoka/~5/-NZYB47z71w/20130817-01.mp3" fileSize="47012176" type="audio/mpeg"/>
+<itunes:explicit>no</itunes:explicit>
+<itunes:subtitle>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</itunes:subtitle>
+<itunes:author>iandme</itunes:author>
+<itunes:summary>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</itunes:summary>
+<itunes:keywords>ida10,miyaoka,ピコピコキャスト,picopicocast,pico2cast,pico</itunes:keywords>
+<feedburner:origLink>http://d.hatena.ne.jp/iandme/20131230/1391437187</feedburner:origLink>
+<enclosure url="http://feedproxy.google.com/~r/ida10_miyaoka/~5/-NZYB47z71w/20130817-01.mp3" length="47012176" type="audio/mpeg"/>
+<feedburner:origEnclosureLink>http://www.t-p.jp/podcast/20130817-01.mp3</feedburner:origEnclosureLink>
+</item>
+<item>
+    <title>第37回 年末スペシャル。ステルス強盗ゲームMonacoの話</title>
+    <link>http://feedproxy.google.com/~r/ida10_miyaoka/~3/cF-FftwIY6k/1391437187</link>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">iandme</dc:creator>
+    <pubDate>Mon, 03 Feb 2014 06:19:47 PST</pubDate>
+    <guid isPermaLink="false">http://d.hatena.ne.jp/iandme/20131230/1391437187</guid>
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">
+</content:encoded>
+<description>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</description>
+<media:content url="http://feedproxy.google.com/~r/ida10_miyaoka/~5/-NZYB47z71w/20130816.mp3" fileSize="47012176" type="audio/mpeg"/>
+<itunes:explicit>no</itunes:explicit>
+<itunes:subtitle>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</itunes:subtitle>
+<itunes:author>iandme</itunes:author>
+<itunes:summary>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</itunes:summary>
+<itunes:keywords>ida10,miyaoka,ピコピコキャスト,picopicocast,pico2cast,pico</itunes:keywords>
+<feedburner:origLink>http://d.hatena.ne.jp/iandme/20130816/1391437187</feedburner:origLink>
+<enclosure url="http://feedproxy.google.com/~r/ida10_miyaoka/~5/-NZYB47z71w/20130816.mp3" length="47012176" type="audio/mpeg"/>
+<feedburner:origEnclosureLink>http://www.t-p.jp/podcast/20130816.mp3</feedburner:origEnclosureLink>
+</item>
+
+<item>
+    <title>第37回 年末スペシャル。ステルス強盗ゲームMonacoの話</title>
+    <link>http://feedproxy.google.com/~r/ida10_miyaoka/~3/cF-FftwIY6k/1391437187</link>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">iandme</dc:creator>
+    <pubDate>Mon, 03 Feb 2014 06:19:47 PST</pubDate>
+    <guid isPermaLink="false">http://d.hatena.ne.jp/iandme/20130815/1391437187</guid>
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">
+</content:encoded>
+<description>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</description>
+<media:content url="http://feedproxy.google.com/~r/ida10_miyaoka/~5/-NZYB47z71w/20130815.mp3" fileSize="47012176" type="audio/mpeg"/>
+<itunes:explicit>no</itunes:explicit>
+<itunes:subtitle>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</itunes:subtitle>
+<itunes:author>iandme</itunes:author>
+<itunes:summary>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</itunes:summary>
+<itunes:keywords>ida10,miyaoka,ピコピコキャスト,picopicocast,pico2cast,pico</itunes:keywords>
+<feedburner:origLink>http://d.hatena.ne.jp/iandme/20130815/1391437187</feedburner:origLink>
+<enclosure url="http://feedproxy.google.com/~r/ida10_miyaoka/~5/-NZYB47z71w/20130815.mp3" length="47012176" type="audio/mpeg"/>
+<feedburner:origEnclosureLink>http://www.t-p.jp/podcast/20130815.mp3</feedburner:origEnclosureLink>
+</item>
+
+<item>
+    <title>第37回 年末スペシャル。ステルス強盗ゲームMonacoの話</title>
+    <link>http://feedproxy.google.com/~r/ida10_miyaoka/~3/cF-FftwIY6k/1391437187</link>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">iandme</dc:creator>
+    <pubDate>Mon, 03 Feb 2014 06:19:47 PST</pubDate>
+    <guid isPermaLink="false">http://d.hatena.ne.jp/iandme/20130813/1391437187</guid>
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">
+</content:encoded>
+<description>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</description>
+<media:content url="http://feedproxy.google.com/~r/ida10_miyaoka/~5/-NZYB47z71w/20130813.mp3" fileSize="47012176" type="audio/mpeg"/>
+<itunes:explicit>no</itunes:explicit>
+<itunes:subtitle>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</itunes:subtitle>
+<itunes:author>iandme</itunes:author>
+<itunes:summary>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</itunes:summary>
+<itunes:keywords>ida10,miyaoka,ピコピコキャスト,picopicocast,pico2cast,pico</itunes:keywords>
+<feedburner:origLink>http://d.hatena.ne.jp/iandme/20130813/1391437187</feedburner:origLink>
+<enclosure url="http://feedproxy.google.com/~r/ida10_miyaoka/~5/-NZYB47z71w/20130813.mp3" length="47012176" type="audio/mpeg"/>
+<feedburner:origEnclosureLink>http://www.t-p.jp/podcast/20130813.mp3</feedburner:origEnclosureLink>
+</item>
+<item>
+    <title>第37回 年末スペシャル。ステルス強盗ゲームMonacoの話</title>
+    <link>http://feedproxy.google.com/~r/ida10_miyaoka/~3/cF-FftwIY6k/1391437187</link>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">iandme</dc:creator>
+    <pubDate>Mon, 03 Feb 2014 06:19:47 PST</pubDate>
+    <guid isPermaLink="false">http://d.hatena.ne.jp/iandme/20130812/1391437187</guid>
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">
+</content:encoded>
+<description>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</description>
+<media:content url="http://feedproxy.google.com/~r/ida10_miyaoka/~5/-NZYB47z71w/20130812.mp3" fileSize="47012176" type="audio/mpeg"/>
+<itunes:explicit>no</itunes:explicit>
+<itunes:subtitle>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</itunes:subtitle>
+<itunes:author>iandme</itunes:author>
+<itunes:summary>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</itunes:summary>
+<itunes:keywords>ida10,miyaoka,ピコピコキャスト,picopicocast,pico2cast,pico</itunes:keywords>
+<feedburner:origLink>http://d.hatena.ne.jp/iandme/20130812/1391437187</feedburner:origLink>
+<enclosure url="http://feedproxy.google.com/~r/ida10_miyaoka/~5/-NZYB47z71w/20130812.mp3" length="47012176" type="audio/mpeg"/>
+<feedburner:origEnclosureLink>http://www.t-p.jp/podcast/20130812.mp3</feedburner:origEnclosureLink>
+</item>
+
+<item>
+    <title>第37回 年末スペシャル。ステルス強盗ゲームMonacoの話</title>
+    <link>http://feedproxy.google.com/~r/ida10_miyaoka/~3/cF-FftwIY6k/1391437187</link>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">iandme</dc:creator>
+    <pubDate>Mon, 03 Feb 2014 06:19:47 PST</pubDate>
+    <guid isPermaLink="false">http://d.hatena.ne.jp/iandme/20130807/1391437187</guid>
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">
+</content:encoded>
+<description>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</description>
+<media:content url="http://feedproxy.google.com/~r/ida10_miyaoka/~5/-NZYB47z71w/20130807.mp3" fileSize="47012176" type="audio/mpeg"/>
+<itunes:explicit>no</itunes:explicit>
+<itunes:subtitle>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</itunes:subtitle>
+<itunes:author>iandme</itunes:author>
+<itunes:summary>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</itunes:summary>
+<itunes:keywords>ida10,miyaoka,ピコピコキャスト,picopicocast,pico2cast,pico</itunes:keywords>
+<feedburner:origLink>http://d.hatena.ne.jp/iandme/20130807/1391437187</feedburner:origLink>
+<enclosure url="http://feedproxy.google.com/~r/ida10_miyaoka/~5/-NZYB47z71w/20130807.mp3" length="47012176" type="audio/mpeg"/>
+<feedburner:origEnclosureLink>http://www.t-p.jp/podcast/20130807.mp3</feedburner:origEnclosureLink>
+</item>
+
+<item>
+    <title>第37回 年末スペシャル。ステルス強盗ゲームMonacoの話</title>
+    <link>http://feedproxy.google.com/~r/ida10_miyaoka/~3/cF-FftwIY6k/1391437187</link>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">iandme</dc:creator>
+    <pubDate>Mon, 03 Feb 2014 06:19:47 PST</pubDate>
+    <guid isPermaLink="false">http://d.hatena.ne.jp/iandme/20130805/1391437187</guid>
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">
+</content:encoded>
+<description>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</description>
+<media:content url="http://feedproxy.google.com/~r/ida10_miyaoka/~5/-NZYB47z71w/20130805.mp3" fileSize="47012176" type="audio/mpeg"/>
+<itunes:explicit>no</itunes:explicit>
+<itunes:subtitle>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</itunes:subtitle>
+<itunes:author>iandme</itunes:author>
+<itunes:summary>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</itunes:summary>
+<itunes:keywords>ida10,miyaoka,ピコピコキャスト,picopicocast,pico2cast,pico</itunes:keywords>
+<feedburner:origLink>http://d.hatena.ne.jp/iandme/20130805/1391437187</feedburner:origLink>
+<enclosure url="http://feedproxy.google.com/~r/ida10_miyaoka/~5/-NZYB47z71w/20130805.mp3" length="47012176" type="audio/mpeg"/>
+<feedburner:origEnclosureLink>http://www.t-p.jp/podcast/20130805.mp3</feedburner:origEnclosureLink>
+</item>
+
+<item>
+    <title>第37回 年末スペシャル。ステルス強盗ゲームMonacoの話</title>
+    <link>http://feedproxy.google.com/~r/ida10_miyaoka/~3/cF-FftwIY6k/1391437187</link>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">iandme</dc:creator>
+    <pubDate>Mon, 03 Feb 2014 06:19:47 PST</pubDate>
+    <guid isPermaLink="false">http://d.hatena.ne.jp/iandme/20130728/1391437187</guid>
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">
+</content:encoded>
+<description>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</description>
+<media:content url="http://feedproxy.google.com/~r/ida10_miyaoka/~5/-NZYB47z71w/20130728.mp3" fileSize="47012176" type="audio/mpeg"/>
+<itunes:explicit>no</itunes:explicit>
+<itunes:subtitle>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</itunes:subtitle>
+<itunes:author>iandme</itunes:author>
+<itunes:summary>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</itunes:summary>
+<itunes:keywords>ida10,miyaoka,ピコピコキャスト,picopicocast,pico2cast,pico</itunes:keywords>
+<feedburner:origLink>http://d.hatena.ne.jp/iandme/20130728/1391437187</feedburner:origLink>
+<enclosure url="http://feedproxy.google.com/~r/ida10_miyaoka/~5/-NZYB47z71w/20130728.mp3" length="47012176" type="audio/mpeg"/>
+<feedburner:origEnclosureLink>http://www.t-p.jp/podcast/20130728.mp3</feedburner:origEnclosureLink>
+</item>
+<item>
+    <title>第37回 年末スペシャル。ステルス強盗ゲームMonacoの話</title>
+    <link>http://feedproxy.google.com/~r/ida10_miyaoka/~3/cF-FftwIY6k/1391437187</link>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">iandme</dc:creator>
+    <pubDate>Mon, 03 Feb 2014 06:19:47 PST</pubDate>
+    <guid isPermaLink="false">http://d.hatena.ne.jp/iandme/20130724/1391437187</guid>
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">
+</content:encoded>
+<description>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</description>
+<media:content url="http://feedproxy.google.com/~r/ida10_miyaoka/~5/-NZYB47z71w/20130724.mp3" fileSize="47012176" type="audio/mpeg"/>
+<itunes:explicit>no</itunes:explicit>
+<itunes:subtitle>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</itunes:subtitle>
+<itunes:author>iandme</itunes:author>
+<itunes:summary>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</itunes:summary>
+<itunes:keywords>ida10,miyaoka,ピコピコキャスト,picopicocast,pico2cast,pico</itunes:keywords>
+<feedburner:origLink>http://d.hatena.ne.jp/iandme/20130724/1391437187</feedburner:origLink>
+<enclosure url="http://feedproxy.google.com/~r/ida10_miyaoka/~5/-NZYB47z71w/20130724.mp3" length="47012176" type="audio/mpeg"/>
+<feedburner:origEnclosureLink>http://www.t-p.jp/podcast/20130724.mp3</feedburner:origEnclosureLink>
+</item>
+<item>
+    <title>第37回 年末スペシャル。ステルス強盗ゲームMonacoの話</title>
+    <link>http://feedproxy.google.com/~r/ida10_miyaoka/~3/cF-FftwIY6k/1391437187</link>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">iandme</dc:creator>
+    <pubDate>Mon, 03 Feb 2014 06:19:47 PST</pubDate>
+    <guid isPermaLink="false">http://d.hatena.ne.jp/iandme/20130723/1391437187</guid>
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">
+</content:encoded>
+<description>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</description>
+<media:content url="http://feedproxy.google.com/~r/ida10_miyaoka/~5/-NZYB47z71w/20130723.mp3" fileSize="47012176" type="audio/mpeg"/>
+<itunes:explicit>no</itunes:explicit>
+<itunes:subtitle>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</itunes:subtitle>
+<itunes:author>iandme</itunes:author>
+<itunes:summary>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</itunes:summary>
+<itunes:keywords>ida10,miyaoka,ピコピコキャスト,picopicocast,pico2cast,pico</itunes:keywords>
+<feedburner:origLink>http://d.hatena.ne.jp/iandme/20130723/1391437187</feedburner:origLink>
+<enclosure url="http://feedproxy.google.com/~r/ida10_miyaoka/~5/-NZYB47z71w/20130723.mp3" length="47012176" type="audio/mpeg"/>
+<feedburner:origEnclosureLink>http://www.t-p.jp/podcast/20130723.mp3</feedburner:origEnclosureLink>
+</item>
+<item>
+    <title>第37回 年末スペシャル。ステルス強盗ゲームMonacoの話</title>
+    <link>http://feedproxy.google.com/~r/ida10_miyaoka/~3/cF-FftwIY6k/1391437187</link>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">iandme</dc:creator>
+    <pubDate>Mon, 03 Feb 2014 06:19:47 PST</pubDate>
+    <guid isPermaLink="false">http://d.hatena.ne.jp/iandme/20130722/1391437187</guid>
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">
+</content:encoded>
+<description>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</description>
+<media:content url="http://feedproxy.google.com/~r/ida10_miyaoka/~5/-NZYB47z71w/20130722.mp3" fileSize="47012176" type="audio/mpeg"/>
+<itunes:explicit>no</itunes:explicit>
+<itunes:subtitle>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</itunes:subtitle>
+<itunes:author>iandme</itunes:author>
+<itunes:summary>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</itunes:summary>
+<itunes:keywords>ida10,miyaoka,ピコピコキャスト,picopicocast,pico2cast,pico</itunes:keywords>
+<feedburner:origLink>http://d.hatena.ne.jp/iandme/20130722/1391437187</feedburner:origLink>
+<enclosure url="http://feedproxy.google.com/~r/ida10_miyaoka/~5/-NZYB47z71w/20130722.mp3" length="47012176" type="audio/mpeg"/>
+<feedburner:origEnclosureLink>http://www.t-p.jp/podcast/20130722.mp3</feedburner:origEnclosureLink>
+</item>
+<item>
+    <title>第37回 年末スペシャル。ステルス強盗ゲームMonacoの話</title>
+    <link>http://feedproxy.google.com/~r/ida10_miyaoka/~3/cF-FftwIY6k/1391437187</link>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">iandme</dc:creator>
+    <pubDate>Mon, 03 Feb 2014 06:19:47 PST</pubDate>
+    <guid isPermaLink="false">http://d.hatena.ne.jp/iandme/20130720/1391437187</guid>
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">
+</content:encoded>
+<description>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</description>
+<media:content url="http://feedproxy.google.com/~r/ida10_miyaoka/~5/-NZYB47z71w/20130720.mp3" fileSize="47012176" type="audio/mpeg"/>
+<itunes:explicit>no</itunes:explicit>
+<itunes:subtitle>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</itunes:subtitle>
+<itunes:author>iandme</itunes:author>
+<itunes:summary>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</itunes:summary>
+<itunes:keywords>ida10,miyaoka,ピコピコキャスト,picopicocast,pico2cast,pico</itunes:keywords>
+<feedburner:origLink>http://d.hatena.ne.jp/iandme/20130720/1391437187</feedburner:origLink>
+<enclosure url="http://feedproxy.google.com/~r/ida10_miyaoka/~5/-NZYB47z71w/20130720.mp3" length="47012176" type="audio/mpeg"/>
+<feedburner:origEnclosureLink>http://www.t-p.jp/podcast/20130720.mp3</feedburner:origEnclosureLink>
+</item>
+<item>
+    <title>第37回 年末スペシャル。ステルス強盗ゲームMonacoの話</title>
+    <link>http://feedproxy.google.com/~r/ida10_miyaoka/~3/cF-FftwIY6k/1391437187</link>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">iandme</dc:creator>
+    <pubDate>Mon, 03 Feb 2014 06:19:47 PST</pubDate>
+    <guid isPermaLink="false">http://d.hatena.ne.jp/iandme/20130630-02/1391437187</guid>
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">
+</content:encoded>
+<description>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</description>
+<media:content url="http://feedproxy.google.com/~r/ida10_miyaoka/~5/-NZYB47z71w/20130630-02.mp3" fileSize="47012176" type="audio/mpeg"/>
+<itunes:explicit>no</itunes:explicit>
+<itunes:subtitle>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</itunes:subtitle>
+<itunes:author>iandme</itunes:author>
+<itunes:summary>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</itunes:summary>
+<itunes:keywords>ida10,miyaoka,ピコピコキャスト,picopicocast,pico2cast,pico</itunes:keywords>
+<feedburner:origLink>http://d.hatena.ne.jp/iandme/20130630-02/1391437187</feedburner:origLink>
+<enclosure url="http://feedproxy.google.com/~r/ida10_miyaoka/~5/-NZYB47z71w/20130630-02.mp3" length="47012176" type="audio/mpeg"/>
+<feedburner:origEnclosureLink>http://www.t-p.jp/podcast/20130630-02.mp3</feedburner:origEnclosureLink>
+</item>
+<item>
+    <title>第37回 年末スペシャル。ステルス強盗ゲームMonacoの話</title>
+    <link>http://feedproxy.google.com/~r/ida10_miyaoka/~3/cF-FftwIY6k/1391437187</link>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">iandme</dc:creator>
+    <pubDate>Mon, 03 Feb 2014 06:19:47 PST</pubDate>
+    <guid isPermaLink="false">http://d.hatena.ne.jp/iandme/20130630-01/1391437187</guid>
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">
+</content:encoded>
+<description>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</description>
+<media:content url="http://feedproxy.google.com/~r/ida10_miyaoka/~5/-NZYB47z71w/20130630-01.mp3" fileSize="47012176" type="audio/mpeg"/>
+<itunes:explicit>no</itunes:explicit>
+<itunes:subtitle>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</itunes:subtitle>
+<itunes:author>iandme</itunes:author>
+<itunes:summary>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</itunes:summary>
+<itunes:keywords>ida10,miyaoka,ピコピコキャスト,picopicocast,pico2cast,pico</itunes:keywords>
+<feedburner:origLink>http://d.hatena.ne.jp/iandme/20130630-01/1391437187</feedburner:origLink>
+<enclosure url="http://feedproxy.google.com/~r/ida10_miyaoka/~5/-NZYB47z71w/20130630-01.mp3" length="47012176" type="audio/mpeg"/>
+<feedburner:origEnclosureLink>http://www.t-p.jp/podcast/20130630-01.mp3</feedburner:origEnclosureLink>
+</item>
+<item>
+    <title>第37回 年末スペシャル。ステルス強盗ゲームMonacoの話</title>
+    <link>http://feedproxy.google.com/~r/ida10_miyaoka/~3/cF-FftwIY6k/1391437187</link>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">iandme</dc:creator>
+    <pubDate>Mon, 03 Feb 2014 06:19:47 PST</pubDate>
+    <guid isPermaLink="false">http://d.hatena.ne.jp/iandme/20130609/1391437187</guid>
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">
+</content:encoded>
+<description>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</description>
+<media:content url="http://feedproxy.google.com/~r/ida10_miyaoka/~5/-NZYB47z71w/20130609.mp3" fileSize="47012176" type="audio/mpeg"/>
+<itunes:explicit>no</itunes:explicit>
+<itunes:subtitle>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</itunes:subtitle>
+<itunes:author>iandme</itunes:author>
+<itunes:summary>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</itunes:summary>
+<itunes:keywords>ida10,miyaoka,ピコピコキャスト,picopicocast,pico2cast,pico</itunes:keywords>
+<feedburner:origLink>http://d.hatena.ne.jp/iandme/20130609/1391437187</feedburner:origLink>
+<enclosure url="http://feedproxy.google.com/~r/ida10_miyaoka/~5/-NZYB47z71w/20130609.mp3" length="47012176" type="audio/mpeg"/>
+<feedburner:origEnclosureLink>http://www.t-p.jp/podcast/20130609.mp3</feedburner:origEnclosureLink>
+</item>
+<item>
+    <title>第37回 年末スペシャル。ステルス強盗ゲームMonacoの話</title>
+    <link>http://feedproxy.google.com/~r/ida10_miyaoka/~3/cF-FftwIY6k/1391437187</link>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">iandme</dc:creator>
+    <pubDate>Mon, 03 Feb 2014 06:19:47 PST</pubDate>
+    <guid isPermaLink="false">http://d.hatena.ne.jp/iandme/20130602-02/1391437187</guid>
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">
+</content:encoded>
+<description>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</description>
+<media:content url="http://feedproxy.google.com/~r/ida10_miyaoka/~5/-NZYB47z71w/20130602-02.mp3" fileSize="47012176" type="audio/mpeg"/>
+<itunes:explicit>no</itunes:explicit>
+<itunes:subtitle>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</itunes:subtitle>
+<itunes:author>iandme</itunes:author>
+<itunes:summary>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</itunes:summary>
+<itunes:keywords>ida10,miyaoka,ピコピコキャスト,picopicocast,pico2cast,pico</itunes:keywords>
+<feedburner:origLink>http://d.hatena.ne.jp/iandme/20130602-02/1391437187</feedburner:origLink>
+<enclosure url="http://feedproxy.google.com/~r/ida10_miyaoka/~5/-NZYB47z71w/20130602-02.mp3" length="47012176" type="audio/mpeg"/>
+<feedburner:origEnclosureLink>http://www.t-p.jp/podcast/20130602-02.mp3</feedburner:origEnclosureLink>
+</item>
+<item>
+    <title>第37回 年末スペシャル。ステルス強盗ゲームMonacoの話</title>
+    <link>http://feedproxy.google.com/~r/ida10_miyaoka/~3/cF-FftwIY6k/1391437187</link>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">iandme</dc:creator>
+    <pubDate>Mon, 03 Feb 2014 06:19:47 PST</pubDate>
+    <guid isPermaLink="false">http://d.hatena.ne.jp/iandme/20130602/1391437187</guid>
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">
+</content:encoded>
+<description>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</description>
+<media:content url="http://feedproxy.google.com/~r/ida10_miyaoka/~5/-NZYB47z71w/20130602.mp3" fileSize="47012176" type="audio/mpeg"/>
+<itunes:explicit>no</itunes:explicit>
+<itunes:subtitle>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</itunes:subtitle>
+<itunes:author>iandme</itunes:author>
+<itunes:summary>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</itunes:summary>
+<itunes:keywords>ida10,miyaoka,ピコピコキャスト,picopicocast,pico2cast,pico</itunes:keywords>
+<feedburner:origLink>http://d.hatena.ne.jp/iandme/20130602/1391437187</feedburner:origLink>
+<enclosure url="http://feedproxy.google.com/~r/ida10_miyaoka/~5/-NZYB47z71w/20130602.mp3" length="47012176" type="audio/mpeg"/>
+<feedburner:origEnclosureLink>http://www.t-p.jp/podcast/20130602.mp3</feedburner:origEnclosureLink>
+</item>
+<item>
+    <title>第37回 年末スペシャル。ステルス強盗ゲームMonacoの話</title>
+    <link>http://feedproxy.google.com/~r/ida10_miyaoka/~3/cF-FftwIY6k/1391437187</link>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">iandme</dc:creator>
+    <pubDate>Mon, 03 Feb 2014 06:19:47 PST</pubDate>
+    <guid isPermaLink="false">http://d.hatena.ne.jp/iandme/20130501/1391437187</guid>
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">
+</content:encoded>
+<description>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</description>
+<media:content url="http://feedproxy.google.com/~r/ida10_miyaoka/~5/-NZYB47z71w/20130501.mp3" fileSize="47012176" type="audio/mpeg"/>
+<itunes:explicit>no</itunes:explicit>
+<itunes:subtitle>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</itunes:subtitle>
+<itunes:author>iandme</itunes:author>
+<itunes:summary>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</itunes:summary>
+<itunes:keywords>ida10,miyaoka,ピコピコキャスト,picopicocast,pico2cast,pico</itunes:keywords>
+<feedburner:origLink>http://d.hatena.ne.jp/iandme/20130501/1391437187</feedburner:origLink>
+<enclosure url="http://feedproxy.google.com/~r/ida10_miyaoka/~5/-NZYB47z71w/20130501.mp3" length="47012176" type="audio/mpeg"/>
+<feedburner:origEnclosureLink>http://www.t-p.jp/podcast/20130501.mp3</feedburner:origEnclosureLink>
+</item>
+<item>
+    <title>第37回 年末スペシャル。ステルス強盗ゲームMonacoの話</title>
+    <link>http://feedproxy.google.com/~r/ida10_miyaoka/~3/cF-FftwIY6k/1391437187</link>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">iandme</dc:creator>
+    <pubDate>Mon, 03 Feb 2014 06:19:47 PST</pubDate>
+    <guid isPermaLink="false">http://d.hatena.ne.jp/iandme/20130330/1391437187</guid>
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">
+</content:encoded>
+<description>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</description>
+<media:content url="http://feedproxy.google.com/~r/ida10_miyaoka/~5/-NZYB47z71w/20130330.mp3" fileSize="47012176" type="audio/mpeg"/>
+<itunes:explicit>no</itunes:explicit>
+<itunes:subtitle>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</itunes:subtitle>
+<itunes:author>iandme</itunes:author>
+<itunes:summary>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</itunes:summary>
+<itunes:keywords>ida10,miyaoka,ピコピコキャスト,picopicocast,pico2cast,pico</itunes:keywords>
+<feedburner:origLink>http://d.hatena.ne.jp/iandme/20130330/1391437187</feedburner:origLink>
+<enclosure url="http://feedproxy.google.com/~r/ida10_miyaoka/~5/-NZYB47z71w/20130330.mp3" length="47012176" type="audio/mpeg"/>
+<feedburner:origEnclosureLink>http://www.t-p.jp/podcast/20130330.mp3</feedburner:origEnclosureLink>
+</item>
+
+<item>
+    <title>第37回 年末スペシャル。ステルス強盗ゲームMonacoの話</title>
+    <link>http://feedproxy.google.com/~r/ida10_miyaoka/~3/cF-FftwIY6k/1391437187</link>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">iandme</dc:creator>
+    <pubDate>Mon, 03 Feb 2014 06:19:47 PST</pubDate>
+    <guid isPermaLink="false">http://d.hatena.ne.jp/iandme/20130307/1391437187</guid>
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">
+</content:encoded>
+<description>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</description>
+<media:content url="http://feedproxy.google.com/~r/ida10_miyaoka/~5/-NZYB47z71w/20130307.mp3" fileSize="47012176" type="audio/mpeg"/>
+<itunes:explicit>no</itunes:explicit>
+<itunes:subtitle>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</itunes:subtitle>
+<itunes:author>iandme</itunes:author>
+<itunes:summary>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</itunes:summary>
+<itunes:keywords>ida10,miyaoka,ピコピコキャスト,picopicocast,pico2cast,pico</itunes:keywords>
+<feedburner:origLink>http://d.hatena.ne.jp/iandme/20130307/1391437187</feedburner:origLink>
+<enclosure url="http://feedproxy.google.com/~r/ida10_miyaoka/~5/-NZYB47z71w/20130307.mp3" length="47012176" type="audio/mpeg"/>
+<feedburner:origEnclosureLink>http://www.t-p.jp/podcast/20130307.mp3</feedburner:origEnclosureLink>
+</item>
+
+<item>
+    <title>第37回 年末スペシャル。ステルス強盗ゲームMonacoの話</title>
+    <link>http://feedproxy.google.com/~r/ida10_miyaoka/~3/cF-FftwIY6k/1391437187</link>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">iandme</dc:creator>
+    <pubDate>Mon, 03 Feb 2014 06:19:47 PST</pubDate>
+    <guid isPermaLink="false">http://d.hatena.ne.jp/iandme/20121123/1391437187</guid>
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">
+</content:encoded>
+<description>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</description>
+<media:content url="http://feedproxy.google.com/~r/ida10_miyaoka/~5/-NZYB47z71w/20121123.mp3" fileSize="47012176" type="audio/mpeg"/>
+<itunes:explicit>no</itunes:explicit>
+<itunes:subtitle>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</itunes:subtitle>
+<itunes:author>iandme</itunes:author>
+<itunes:summary>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</itunes:summary>
+<itunes:keywords>ida10,miyaoka,ピコピコキャスト,picopicocast,pico2cast,pico</itunes:keywords>
+<feedburner:origLink>http://d.hatena.ne.jp/iandme/20121123/1391437187</feedburner:origLink>
+<enclosure url="http://feedproxy.google.com/~r/ida10_miyaoka/~5/-NZYB47z71w/20121123.mp3" length="47012176" type="audio/mpeg"/>
+<feedburner:origEnclosureLink>http://www.t-p.jp/podcast/20121123.mp3</feedburner:origEnclosureLink>
+</item>
+<item>
+    <title>第37回 年末スペシャル。ステルス強盗ゲームMonacoの話</title>
+    <link>http://feedproxy.google.com/~r/ida10_miyaoka/~3/cF-FftwIY6k/1391437187</link>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">iandme</dc:creator>
+    <pubDate>Mon, 03 Feb 2014 06:19:47 PST</pubDate>
+    <guid isPermaLink="false">http://d.hatena.ne.jp/iandme/20121001/1391437187</guid>
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">
+</content:encoded>
+<description>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</description>
+<media:content url="http://feedproxy.google.com/~r/ida10_miyaoka/~5/-NZYB47z71w/20121001.mp3" fileSize="47012176" type="audio/mpeg"/>
+<itunes:explicit>no</itunes:explicit>
+<itunes:subtitle>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</itunes:subtitle>
+<itunes:author>iandme</itunes:author>
+<itunes:summary>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</itunes:summary>
+<itunes:keywords>ida10,miyaoka,ピコピコキャスト,picopicocast,pico2cast,pico</itunes:keywords>
+<feedburner:origLink>http://d.hatena.ne.jp/iandme/20121001/1391437187</feedburner:origLink>
+<enclosure url="http://feedproxy.google.com/~r/ida10_miyaoka/~5/-NZYB47z71w/20121001.mp3" length="47012176" type="audio/mpeg"/>
+<feedburner:origEnclosureLink>http://www.t-p.jp/podcast/20121001.mp3</feedburner:origEnclosureLink>
+</item>
+<item>
+    <title>第37回 年末スペシャル。ステルス強盗ゲームMonacoの話</title>
+    <link>http://feedproxy.google.com/~r/ida10_miyaoka/~3/cF-FftwIY6k/1391437187</link>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">iandme</dc:creator>
+    <pubDate>Mon, 03 Feb 2014 06:19:47 PST</pubDate>
+    <guid isPermaLink="false">http://d.hatena.ne.jp/iandme/20120925/1391437187</guid>
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">
+</content:encoded>
+<description>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</description>
+<media:content url="http://feedproxy.google.com/~r/ida10_miyaoka/~5/-NZYB47z71w/20120925.mp3" fileSize="47012176" type="audio/mpeg"/>
+<itunes:explicit>no</itunes:explicit>
+<itunes:subtitle>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</itunes:subtitle>
+<itunes:author>iandme</itunes:author>
+<itunes:summary>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</itunes:summary>
+<itunes:keywords>ida10,miyaoka,ピコピコキャスト,picopicocast,pico2cast,pico</itunes:keywords>
+<feedburner:origLink>http://d.hatena.ne.jp/iandme/20120925/1391437187</feedburner:origLink>
+<enclosure url="http://feedproxy.google.com/~r/ida10_miyaoka/~5/-NZYB47z71w/20120925.mp3" length="47012176" type="audio/mpeg"/>
+<feedburner:origEnclosureLink>http://www.t-p.jp/podcast/20120925.mp3</feedburner:origEnclosureLink>
+</item>
+<item>
+    <title>第37回 年末スペシャル。ステルス強盗ゲームMonacoの話</title>
+    <link>http://feedproxy.google.com/~r/ida10_miyaoka/~3/cF-FftwIY6k/1391437187</link>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">iandme</dc:creator>
+    <pubDate>Mon, 03 Feb 2014 06:19:47 PST</pubDate>
+    <guid isPermaLink="false">http://d.hatena.ne.jp/iandme/20120921/1391437187</guid>
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">
+</content:encoded>
+<description>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</description>
+<media:content url="http://feedproxy.google.com/~r/ida10_miyaoka/~5/-NZYB47z71w/20120921.mp3" fileSize="47012176" type="audio/mpeg"/>
+<itunes:explicit>no</itunes:explicit>
+<itunes:subtitle>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</itunes:subtitle>
+<itunes:author>iandme</itunes:author>
+<itunes:summary>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</itunes:summary>
+<itunes:keywords>ida10,miyaoka,ピコピコキャスト,picopicocast,pico2cast,pico</itunes:keywords>
+<feedburner:origLink>http://d.hatena.ne.jp/iandme/20120921/1391437187</feedburner:origLink>
+<enclosure url="http://feedproxy.google.com/~r/ida10_miyaoka/~5/-NZYB47z71w/20120921.mp3" length="47012176" type="audio/mpeg"/>
+<feedburner:origEnclosureLink>http://www.t-p.jp/podcast/20120921.mp3</feedburner:origEnclosureLink>
+</item>
+<item>
+    <title>第37回 年末スペシャル。ステルス強盗ゲームMonacoの話</title>
+    <link>http://feedproxy.google.com/~r/ida10_miyaoka/~3/cF-FftwIY6k/1391437187</link>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">iandme</dc:creator>
+    <pubDate>Mon, 03 Feb 2014 06:19:47 PST</pubDate>
+    <guid isPermaLink="false">http://d.hatena.ne.jp/iandme/20120823-02/1391437187</guid>
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">
+</content:encoded>
+<description>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</description>
+<media:content url="http://feedproxy.google.com/~r/ida10_miyaoka/~5/-NZYB47z71w/20120823-02.mp3" fileSize="47012176" type="audio/mpeg"/>
+<itunes:explicit>no</itunes:explicit>
+<itunes:subtitle>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</itunes:subtitle>
+<itunes:author>iandme</itunes:author>
+<itunes:summary>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</itunes:summary>
+<itunes:keywords>ida10,miyaoka,ピコピコキャスト,picopicocast,pico2cast,pico</itunes:keywords>
+<feedburner:origLink>http://d.hatena.ne.jp/iandme/20120823-02/1391437187</feedburner:origLink>
+<enclosure url="http://feedproxy.google.com/~r/ida10_miyaoka/~5/-NZYB47z71w/20120823-02.mp3" length="47012176" type="audio/mpeg"/>
+<feedburner:origEnclosureLink>http://www.t-p.jp/podcast/20120823-02.mp3</feedburner:origEnclosureLink>
+</item>
+<item>
+    <title>第37回 年末スペシャル。ステルス強盗ゲームMonacoの話</title>
+    <link>http://feedproxy.google.com/~r/ida10_miyaoka/~3/cF-FftwIY6k/1391437187</link>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">iandme</dc:creator>
+    <pubDate>Mon, 03 Feb 2014 06:19:47 PST</pubDate>
+    <guid isPermaLink="false">http://d.hatena.ne.jp/iandme/20120823-01/1391437187</guid>
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">
+</content:encoded>
+<description>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</description>
+<media:content url="http://feedproxy.google.com/~r/ida10_miyaoka/~5/-NZYB47z71w/20120823-01.mp3" fileSize="47012176" type="audio/mpeg"/>
+<itunes:explicit>no</itunes:explicit>
+<itunes:subtitle>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</itunes:subtitle>
+<itunes:author>iandme</itunes:author>
+<itunes:summary>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</itunes:summary>
+<itunes:keywords>ida10,miyaoka,ピコピコキャスト,picopicocast,pico2cast,pico</itunes:keywords>
+<feedburner:origLink>http://d.hatena.ne.jp/iandme/20120823-01/1391437187</feedburner:origLink>
+<enclosure url="http://feedproxy.google.com/~r/ida10_miyaoka/~5/-NZYB47z71w/20120823-01.mp3" length="47012176" type="audio/mpeg"/>
+<feedburner:origEnclosureLink>http://www.t-p.jp/podcast/20120823-01.mp3</feedburner:origEnclosureLink>
+</item>
+<item>
+    <title>第37回 年末スペシャル。ステルス強盗ゲームMonacoの話</title>
+    <link>http://feedproxy.google.com/~r/ida10_miyaoka/~3/cF-FftwIY6k/1391437187</link>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">iandme</dc:creator>
+    <pubDate>Mon, 03 Feb 2014 06:19:47 PST</pubDate>
+    <guid isPermaLink="false">http://d.hatena.ne.jp/iandme/20120806/1391437187</guid>
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">
+</content:encoded>
+<description>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</description>
+<media:content url="http://feedproxy.google.com/~r/ida10_miyaoka/~5/-NZYB47z71w/20120806.mp3" fileSize="47012176" type="audio/mpeg"/>
+<itunes:explicit>no</itunes:explicit>
+<itunes:subtitle>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</itunes:subtitle>
+<itunes:author>iandme</itunes:author>
+<itunes:summary>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</itunes:summary>
+<itunes:keywords>ida10,miyaoka,ピコピコキャスト,picopicocast,pico2cast,pico</itunes:keywords>
+<feedburner:origLink>http://d.hatena.ne.jp/iandme/20120806/1391437187</feedburner:origLink>
+<enclosure url="http://feedproxy.google.com/~r/ida10_miyaoka/~5/-NZYB47z71w/20120806.mp3" length="47012176" type="audio/mpeg"/>
+<feedburner:origEnclosureLink>http://www.t-p.jp/podcast/20120806.mp3</feedburner:origEnclosureLink>
+</item>
+<item>
+    <title>第37回 年末スペシャル。ステルス強盗ゲームMonacoの話</title>
+    <link>http://feedproxy.google.com/~r/ida10_miyaoka/~3/cF-FftwIY6k/1391437187</link>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">iandme</dc:creator>
+    <pubDate>Mon, 03 Feb 2014 06:19:47 PST</pubDate>
+    <guid isPermaLink="false">http://d.hatena.ne.jp/iandme/20120803/1391437187</guid>
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">
+</content:encoded>
+<description>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</description>
+<media:content url="http://feedproxy.google.com/~r/ida10_miyaoka/~5/-NZYB47z71w/20120803.mp3" fileSize="47012176" type="audio/mpeg"/>
+<itunes:explicit>no</itunes:explicit>
+<itunes:subtitle>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</itunes:subtitle>
+<itunes:author>iandme</itunes:author>
+<itunes:summary>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</itunes:summary>
+<itunes:keywords>ida10,miyaoka,ピコピコキャスト,picopicocast,pico2cast,pico</itunes:keywords>
+<feedburner:origLink>http://d.hatena.ne.jp/iandme/20120803/1391437187</feedburner:origLink>
+<enclosure url="http://feedproxy.google.com/~r/ida10_miyaoka/~5/-NZYB47z71w/20120803.mp3" length="47012176" type="audio/mpeg"/>
+<feedburner:origEnclosureLink>http://www.t-p.jp/podcast/20120803.mp3</feedburner:origEnclosureLink>
+</item>
+<item>
+    <title>第37回 年末スペシャル。ステルス強盗ゲームMonacoの話</title>
+    <link>http://feedproxy.google.com/~r/ida10_miyaoka/~3/cF-FftwIY6k/1391437187</link>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">iandme</dc:creator>
+    <pubDate>Mon, 03 Feb 2014 06:19:47 PST</pubDate>
+    <guid isPermaLink="false">http://d.hatena.ne.jp/iandme/20120628/1391437187</guid>
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">
+</content:encoded>
+<description>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</description>
+<media:content url="http://feedproxy.google.com/~r/ida10_miyaoka/~5/-NZYB47z71w/20120628.mp3" fileSize="47012176" type="audio/mpeg"/>
+<itunes:explicit>no</itunes:explicit>
+<itunes:subtitle>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</itunes:subtitle>
+<itunes:author>iandme</itunes:author>
+<itunes:summary>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</itunes:summary>
+<itunes:keywords>ida10,miyaoka,ピコピコキャスト,picopicocast,pico2cast,pico</itunes:keywords>
+<feedburner:origLink>http://d.hatena.ne.jp/iandme/20120628/1391437187</feedburner:origLink>
+<enclosure url="http://feedproxy.google.com/~r/ida10_miyaoka/~5/-NZYB47z71w/20120628.mp3" length="47012176" type="audio/mpeg"/>
+<feedburner:origEnclosureLink>http://www.t-p.jp/podcast/20120628.mp3</feedburner:origEnclosureLink>
+</item>
+<item>
+    <title>第37回 年末スペシャル。ステルス強盗ゲームMonacoの話</title>
+    <link>http://feedproxy.google.com/~r/ida10_miyaoka/~3/cF-FftwIY6k/1391437187</link>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">iandme</dc:creator>
+    <pubDate>Mon, 03 Feb 2014 06:19:47 PST</pubDate>
+    <guid isPermaLink="false">http://d.hatena.ne.jp/iandme/20120624/1391437187</guid>
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">
+</content:encoded>
+<description>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</description>
+<media:content url="http://feedproxy.google.com/~r/ida10_miyaoka/~5/-NZYB47z71w/20120624.mp3" fileSize="47012176" type="audio/mpeg"/>
+<itunes:explicit>no</itunes:explicit>
+<itunes:subtitle>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</itunes:subtitle>
+<itunes:author>iandme</itunes:author>
+<itunes:summary>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</itunes:summary>
+<itunes:keywords>ida10,miyaoka,ピコピコキャスト,picopicocast,pico2cast,pico</itunes:keywords>
+<feedburner:origLink>http://d.hatena.ne.jp/iandme/20120624/1391437187</feedburner:origLink>
+<enclosure url="http://feedproxy.google.com/~r/ida10_miyaoka/~5/-NZYB47z71w/20120624.mp3" length="47012176" type="audio/mpeg"/>
+<feedburner:origEnclosureLink>http://www.t-p.jp/podcast/20120624.mp3</feedburner:origEnclosureLink>
+</item>
+<item>
+    <title>第37回 年末スペシャル。ステルス強盗ゲームMonacoの話</title>
+    <link>http://feedproxy.google.com/~r/ida10_miyaoka/~3/cF-FftwIY6k/1391437187</link>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">iandme</dc:creator>
+    <pubDate>Mon, 03 Feb 2014 06:19:47 PST</pubDate>
+    <guid isPermaLink="false">http://d.hatena.ne.jp/iandme/20120602/1391437187</guid>
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">
+</content:encoded>
+<description>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</description>
+<media:content url="http://feedproxy.google.com/~r/ida10_miyaoka/~5/-NZYB47z71w/20120602.mp3" fileSize="47012176" type="audio/mpeg"/>
+<itunes:explicit>no</itunes:explicit>
+<itunes:subtitle>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</itunes:subtitle>
+<itunes:author>iandme</itunes:author>
+<itunes:summary>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</itunes:summary>
+<itunes:keywords>ida10,miyaoka,ピコピコキャスト,picopicocast,pico2cast,pico</itunes:keywords>
+<feedburner:origLink>http://d.hatena.ne.jp/iandme/20120602/1391437187</feedburner:origLink>
+<enclosure url="http://feedproxy.google.com/~r/ida10_miyaoka/~5/-NZYB47z71w/20120602.mp3" length="47012176" type="audio/mpeg"/>
+<feedburner:origEnclosureLink>http://www.t-p.jp/podcast/20120602.mp3</feedburner:origEnclosureLink>
+</item>
+<item>
+    <title>第37回 年末スペシャル。ステルス強盗ゲームMonacoの話</title>
+    <link>http://feedproxy.google.com/~r/ida10_miyaoka/~3/cF-FftwIY6k/1391437187</link>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">iandme</dc:creator>
+    <pubDate>Mon, 03 Feb 2014 06:19:47 PST</pubDate>
+    <guid isPermaLink="false">http://d.hatena.ne.jp/iandme/20120515-01/1391437187</guid>
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">
+</content:encoded>
+<description>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</description>
+<media:content url="http://feedproxy.google.com/~r/ida10_miyaoka/~5/-NZYB47z71w/20120515-01.mp3" fileSize="47012176" type="audio/mpeg"/>
+<itunes:explicit>no</itunes:explicit>
+<itunes:subtitle>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</itunes:subtitle>
+<itunes:author>iandme</itunes:author>
+<itunes:summary>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</itunes:summary>
+<itunes:keywords>ida10,miyaoka,ピコピコキャスト,picopicocast,pico2cast,pico</itunes:keywords>
+<feedburner:origLink>http://d.hatena.ne.jp/iandme/20120515-01/1391437187</feedburner:origLink>
+<enclosure url="http://feedproxy.google.com/~r/ida10_miyaoka/~5/-NZYB47z71w/20120515-01.mp3" length="47012176" type="audio/mpeg"/>
+<feedburner:origEnclosureLink>http://www.t-p.jp/podcast/20120515-01.mp3</feedburner:origEnclosureLink>
+</item>
+<item>
+    <title>第37回 年末スペシャル。ステルス強盗ゲームMonacoの話</title>
+    <link>http://feedproxy.google.com/~r/ida10_miyaoka/~3/cF-FftwIY6k/1391437187</link>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">iandme</dc:creator>
+    <pubDate>Mon, 03 Feb 2014 06:19:47 PST</pubDate>
+    <guid isPermaLink="false">http://d.hatena.ne.jp/iandme/20120515-02/1391437187</guid>
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">
+</content:encoded>
+<description>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</description>
+<media:content url="http://feedproxy.google.com/~r/ida10_miyaoka/~5/-NZYB47z71w/20120515-02.mp3" fileSize="47012176" type="audio/mpeg"/>
+<itunes:explicit>no</itunes:explicit>
+<itunes:subtitle>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</itunes:subtitle>
+<itunes:author>iandme</itunes:author>
+<itunes:summary>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</itunes:summary>
+<itunes:keywords>ida10,miyaoka,ピコピコキャスト,picopicocast,pico2cast,pico</itunes:keywords>
+<feedburner:origLink>http://d.hatena.ne.jp/iandme/20120515-02/1391437187</feedburner:origLink>
+<enclosure url="http://feedproxy.google.com/~r/ida10_miyaoka/~5/-NZYB47z71w/20120515-02.mp3" length="47012176" type="audio/mpeg"/>
+<feedburner:origEnclosureLink>http://www.t-p.jp/podcast/20120515-02.mp3</feedburner:origEnclosureLink>
+</item>
+<item>
+    <title>第37回 年末スペシャル。ステルス強盗ゲームMonacoの話</title>
+    <link>http://feedproxy.google.com/~r/ida10_miyaoka/~3/cF-FftwIY6k/1391437187</link>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">iandme</dc:creator>
+    <pubDate>Mon, 03 Feb 2014 06:19:47 PST</pubDate>
+    <guid isPermaLink="false">http://d.hatena.ne.jp/iandme/20120508/1391437187</guid>
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">
+</content:encoded>
+<description>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</description>
+<media:content url="http://feedproxy.google.com/~r/ida10_miyaoka/~5/-NZYB47z71w/20120508.mp3" fileSize="47012176" type="audio/mpeg"/>
+<itunes:explicit>no</itunes:explicit>
+<itunes:subtitle>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</itunes:subtitle>
+<itunes:author>iandme</itunes:author>
+<itunes:summary>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</itunes:summary>
+<itunes:keywords>ida10,miyaoka,ピコピコキャスト,picopicocast,pico2cast,pico</itunes:keywords>
+<feedburner:origLink>http://d.hatena.ne.jp/iandme/20120508/1391437187</feedburner:origLink>
+<enclosure url="http://feedproxy.google.com/~r/ida10_miyaoka/~5/-NZYB47z71w/20120508.mp3" length="47012176" type="audio/mpeg"/>
+<feedburner:origEnclosureLink>http://www.t-p.jp/podcast/20120508.mp3</feedburner:origEnclosureLink>
+</item>
+<item>
+    <title>第37回 年末スペシャル。ステルス強盗ゲームMonacoの話</title>
+    <link>http://feedproxy.google.com/~r/ida10_miyaoka/~3/cF-FftwIY6k/1391437187</link>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">iandme</dc:creator>
+    <pubDate>Mon, 03 Feb 2014 06:19:47 PST</pubDate>
+    <guid isPermaLink="false">http://d.hatena.ne.jp/iandme/20120412-01/1391437187</guid>
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">
+</content:encoded>
+<description>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</description>
+<media:content url="http://feedproxy.google.com/~r/ida10_miyaoka/~5/-NZYB47z71w/20120412-01.mp3" fileSize="47012176" type="audio/mpeg"/>
+<itunes:explicit>no</itunes:explicit>
+<itunes:subtitle>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</itunes:subtitle>
+<itunes:author>iandme</itunes:author>
+<itunes:summary>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</itunes:summary>
+<itunes:keywords>ida10,miyaoka,ピコピコキャスト,picopicocast,pico2cast,pico</itunes:keywords>
+<feedburner:origLink>http://d.hatena.ne.jp/iandme/20120412-01/1391437187</feedburner:origLink>
+<enclosure url="http://feedproxy.google.com/~r/ida10_miyaoka/~5/-NZYB47z71w/20120412-01.mp3" length="47012176" type="audio/mpeg"/>
+<feedburner:origEnclosureLink>http://www.t-p.jp/podcast/20120412-01.mp3</feedburner:origEnclosureLink>
+</item>
+<item>
+    <title>第37回 年末スペシャル。ステルス強盗ゲームMonacoの話</title>
+    <link>http://feedproxy.google.com/~r/ida10_miyaoka/~3/cF-FftwIY6k/1391437187</link>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">iandme</dc:creator>
+    <pubDate>Mon, 03 Feb 2014 06:19:47 PST</pubDate>
+    <guid isPermaLink="false">http://d.hatena.ne.jp/iandme/20120412-02/1391437187</guid>
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">
+</content:encoded>
+<description>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</description>
+<media:content url="http://feedproxy.google.com/~r/ida10_miyaoka/~5/-NZYB47z71w/20120412-02.mp3" fileSize="47012176" type="audio/mpeg"/>
+<itunes:explicit>no</itunes:explicit>
+<itunes:subtitle>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</itunes:subtitle>
+<itunes:author>iandme</itunes:author>
+<itunes:summary>登場人物 イダテン みやおか めぐみさん（イダテン奥さん） 年末スペシャル ステルス強盗ゲームMonaco MONACO | WHAT’S YOURS IS MINE AudioBooでとりあえず一通り語ったんだけど Audioboo / 最近のゲーム：Monacoその1。ステルス強盗ゲーム Audioboo / 最近のゲーム：Mona</itunes:summary>
+<itunes:keywords>ida10,miyaoka,ピコピコキャスト,picopicocast,pico2cast,pico</itunes:keywords>
+<feedburner:origLink>http://d.hatena.ne.jp/iandme/20120412-02/1391437187</feedburner:origLink>
+<enclosure url="http://feedproxy.google.com/~r/ida10_miyaoka/~5/-NZYB47z71w/20120412-02.mp3" length="47012176" type="audio/mpeg"/>
+<feedburner:origEnclosureLink>http://www.t-p.jp/podcast/20120412-02.mp3</feedburner:origEnclosureLink>
+</item>
+
+
+<copyright>(C) http://d.hatena.ne.jp/iandme/</copyright>
+
+<media:credit role="author">iandme</media:credit>
+<media:rating>nonadult</media:rating>
+<media:description type="plain">picopicocast</media:description>
+</channel>
+</rss>
+
